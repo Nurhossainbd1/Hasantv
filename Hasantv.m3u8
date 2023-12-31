@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 ,Iqra Bangla
 http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 group-title="BANGLA" tvg-logo="https://i.imgur.com/g5AQzAK.jpg",ABP Ananda [IN]
+https://abp-i.akamaihd.net:443/hls/live/765530/abpananda/master.m3u8
