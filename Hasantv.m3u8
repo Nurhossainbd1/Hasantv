@@ -55,3 +55,5 @@ http://208.86.19.13:81/514.stream/index.m3u8
 https://web.nandansyst.com/hls/nandan.m3u8
 #EXTINF:-1 ,Nagorik TV
 http://xtream.efiberbd.net:25461/live/mkaua/stream/17.m3u8
+#EXTINF:-1 ,Banglavision
+http://103.68.116.50/live/feed1003/index.m3u8
