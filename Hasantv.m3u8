@@ -73,3 +73,13 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extensi
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 ,SANGEET BANGLA
 http://longstream-03.ajaah.com/PlayBoxTV/SangeetBangla/playlist.m3u8
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 1 HD
+http://livetvbox.live:8080/live/Anne/Anne/154.ts
+#EXTINF:-1 group-title="SONY SPORTS",SONY Ten 2 HD
+http://livetvbox.live:8080/live/Anne/Anne/192.ts
+#EXTINF:-1 group-title="SONY SPORTS",SONY Ten 2 HD.
+http://livetvbox.live:8080/live/Anne/Anne/31314.ts
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 3 HD
+http://livetvbox.live:8080/live/Anne/Anne/146.ts
+#EXTINF:-1 group-title="SONY SPORTS",SONY TEN 4 (FHD)
+http://livetvbox.live:8080/live/Anne/Anne/29469.ts
