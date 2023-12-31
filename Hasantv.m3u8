@@ -53,3 +53,5 @@ https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 http://208.86.19.13:81/514.stream/index.m3u8
 #EXTINF:-1 ,Nandan TV
 https://web.nandansyst.com/hls/nandan.m3u8
+#EXTINF-1 ,ATN News
+http103.205.133.21hlsatnnews.m3u8token=soheliptv01826655778
