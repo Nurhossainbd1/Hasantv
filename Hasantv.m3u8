@@ -5,7 +5,6 @@ http://208.86.19.13:81/507.stream/index.m3u8
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,BTV World
 http://103.230.105.252:1935/live/btv/manifest.m3u8
-#EXTINF:-1 ,BANGLAVISION
-http://cdn01.palki.tv/live/BanglaVision-M/tracks-v1/index.fmp4.m3u8
-#EXTINF:-1 ,BOISHAKHI TV
-http://cdn01.palki.tv/live/BoishakhiTV-M/tracks-v1/index.fmp4.m3u8
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Banglavision HD
+#EXTINF:-1 group-title="Bangladeshi" tvg-logo="https://i.ibb.co/wrJp3Py/IMG-20231013-133812-411.png",Boishakhi TV
+https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
