@@ -1,6 +1,6 @@
 #EXTM3U
-#EXTINF:-1 ,Iqra Bangla
-http://208.86.19.13:81/507.stream/index.m3u8
+#EXTINF:-1 ,IQRA BANGLA
+http://208.86.19.13:81/507.stream/index.m3u8?
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,BTV World
@@ -11,8 +11,8 @@ https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 ,ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
-#EXTINF:-1 ,Channel I
-http://162.244.81.142:1935/live/livestream/chunklist_w1355945905.m3u8
+#EXTINF:-1 ,CHANNEL I
+http://208.86.19.13:81/510.stream/index.m3u8?
 #EXTINF:-1 ,SATV HD
 https://livess.jagobd.com.bd/live-orgin/satvoff5666.stream/chunks.m3u8
 #EXTINF:-1 ,RTV HD
