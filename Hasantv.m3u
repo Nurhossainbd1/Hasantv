@@ -129,7 +129,7 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Zoom
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
-EXTINF:-1 ,Tarango Music 
+#EXTINF:-1 ,Tarango Music 
 https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 ,HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
