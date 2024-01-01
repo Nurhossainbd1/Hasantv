@@ -15,7 +15,7 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 ,ATN News 
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
-#EXTINF:-1 ,ATN Musuc 
+#EXTINF:-1 ,ATN Music
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjQgNTozMToxMyBBTSZoYXNoX3ZhbHVlPW5ZYU5TUGFGc3RabGNDeEt4TFN6Snc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1 ,CHANNEL I
 http://208.86.19.13:81/510.stream/index.m3u8?
@@ -115,11 +115,11 @@ http://103.102.27.173/live/tvfeed1005/index.m3u8
 http://103.102.27.173/live/tvfeed1006/index.m3u8
 #EXTINF:-1,Tennis Channel
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1,Bein Sports 🇶🇦
+#EXTINF:-1,Bein Sports 
 http://175.107.244.52:4457/play/a070/index.m3u8
-#EXTINF:-1,BEIN SPORT 3 🇬🇧
+#EXTINF:-1,BEIN SPORT 3 
 http://175.107.244.52:4457/play/a06x/index.m3u8
-#EXTINF:-1,Bein Sports 5 Arabic 🇶🇦
+#EXTINF:-1,Bein Sports 5 Arabic 
 http://175.107.244.52:4457/play/a06y/index.m3u8
 #EXTINF:-1 ,PTV sports
 http://175.107.244.52:4457/play/a08g/index.m3u8
@@ -129,5 +129,7 @@ https://food-dlvr-ott.akamaized.net/primary/1/d9c0812d4aaf40599540a35be89fb629/i
 http://144.217.70.181:9587/hin2/MASTII/tracks-v1a1/mono.m3u8?token=test
 #EXTINF:-1 ,Zoom
 http://144.217.70.181:9587/hin2/ZOOM/tracks-v1a1/mono.m3u8?token=test
+EXTINF:-1 ,Tarango Music 
+https://otvvid-livecdn.vidgyor.com/tarangmusic-origin/live/playlist.m3u8
 #EXTINF:-1 ,HBTV
 http://hoabinhtvlive.746b3ddb.cdnviet.com/hoabinhtv/chunklist.m3u8
