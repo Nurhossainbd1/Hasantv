@@ -77,7 +77,7 @@ https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92
 http://103.149.142.133/0.m3u8
 #EXTINF:-1 ,R Bangla 
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ee59cf7d-78a9-4294-9a83-a25a5ed3ebcb/2.m3u8?
-#EXTINF:-1 ,Zee News
+##EXTINF:-1 group-title="HINDI ENT." tvg-logo="https://www.canva.com/design/DAF4skx-UII/bTHwDMrPw_0WlgueIIZ7RA/edit?utm_content=DAF4skx-UII&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton",ZEE TV
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeenewsbk/default/index.m3u8?sessionid=yupptvott_61_-1_42d7989f-1685-8ea1-cfe9-a28616abb121_BD_103.109.96.226_dishtv_1_channel_68_-1&token=st=1704157006~exp=1704243406~hmac=034f3e6267ab4030cfacb1376b29ea74ff71e531fd0a808daf73a699fee96b5c
 #EXTINF:-1 ,Zee Bangla HD
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zeebanglahd/default/himelhimu.m3u8
