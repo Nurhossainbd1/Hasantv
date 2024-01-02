@@ -6,7 +6,7 @@ http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 ,BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 ,BTV World
-http://103.230.105.252:1935/live/btv/manifest.m3u8
+https://www.btvlive.gov.bd/streams/447fbd2c-a66c-4f21-8dc6-814015855931/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
 #EXTINF:-1 ,Banglavision HD
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 ,Boishakhi TV
