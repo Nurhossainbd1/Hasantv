@@ -5,8 +5,12 @@ http://82.114.67.178:8081/hls/PeaceTV.m3u8
 http://208.86.19.13:81/507.stream/index.m3u8
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
-#EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV World
-https://www.btvlive.gov.bd/streams/447fbd2c-a66c-4f21-8dc6-814015855931/BD/9ee3b4f9-fd0a-47c5-a135-2575c5691613/index.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV World
+https://tvs1.aynaott.com/btv_world/tracks-v1a1/mono.m3u8?hdnts=st=1704275587~exp=1704318787~acl=/*~data=103.109.96.226-WEB~hmac=132b942b9cc20e812f65cae6a2126c44ab60e10e5d06ae59da1ede5f1d6ea610
+#EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV Chottogram
+https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8?hdnts=st=1704275080~exp=1704318280~acl=/*~data=103.109.96.226-WEB~hmac=fb09725ec9f69874b9562bb0ecb4a39205c46c3c6df1877b24a5c6b9e8475737
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sangsad Tv 
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8?hdnts=st=1704275433~exp=1704318633~acl=/*~data=103.109.96.226-WEB~hmac=08baa426056345559ade7c59c201ba8aa78a4a957b4ca7af219f6a5ff1261ed1
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Banglavision HD
 https://livess.jagobd.com.bd/live-orgin/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Boishakhi TV
@@ -14,7 +18,7 @@ https://livess.jagobd.com.bd/live-orgin/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",ATN Bangla
 https://livess.jagobd.com.bd/live-orgin/atnbd-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",ATN News 
-https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnws-sg.stream/playlist.m3u8
+https://tvs1.aynaott.com/atnnews/tracks-v1a1/mono.m3u8?hdnts=st=1704275199~exp=1704318399~acl=/*~data=103.109.96.226-WEB~hmac=43a3cede27cfb629df8cd1a033e90b58c4080ab00af7513bf07d5283f84d0eba
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",ATN Music
 https://bds.jagobd.com:447/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/atnmusic.stream/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8xLzIwMjQgNTozMToxMyBBTSZoYXNoX3ZhbHVlPW5ZYU5TUGFGc3RabGNDeEt4TFN6Snc9PSZ2YWxpZG1pbnV0ZXM9NDA=
 #EXTINF:-1 group-title="Powdered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",CHANNEL I
