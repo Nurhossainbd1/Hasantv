@@ -37,3 +37,23 @@ https://tvs1.aynaott.com/somoytv/tracks-v1a1/mono.m3u8?hdnts=st=1704279469~exp=1
 https://tvs1.aynaott.com/maasrangatv/tracks-v1a1/mono.m3u8?hdnts=st=1704279576~exp=1704322776~acl=/*~data=103.109.96.226-WEB~hmac=fd456533b8d64c782dc8a091c6e0f1c382b4ab9ea90147f6dbf9447b5adc9ba4
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Channel 9
 https://tvs1.aynaott.com/channel9/tracks-v1a1/mono.m3u8?hdnts=st=1704279771~exp=1704322971~acl=/*~data=103.109.96.226-WEB~hmac=7acb2e5764c43c8ec168dc106dd004f496de70e68a4a3b5b241ef508170a5c86
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Channel 24
+https://tvs1.aynaott.com/channel24/tracks-v1a1/mono.m3u8?hdnts=st=1704283491~exp=1704326691~acl=/*~data=103.109.96.226-WEB~hmac=f9d530c5f569b841349518b9b10cc2b4d56cb7e771f19f024342a1776046cf2f
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ekattor Tv
+https://tvs1.aynaott.com/ekattorbdtv/tracks-v1a1/mono.m3u8?hdnts=st=1704283694~exp=1704326894~acl=/*~data=103.109.96.226-WEB~hmac=2b30be97bcb34bc4e336a61a03e829bdb71439881bece565d3f504519ef660a9
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Asian Tv
+https://tvs1.aynaott.com/asiantv/tracks-v1a1/mono.m3u8?hdnts=st=1704283762~exp=1704326962~acl=/*~data=103.109.96.226-WEB~hmac=39b1c507c8e1852528c89014a384dd618938d21b969c5cc301a469a4f3226cc3
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Nexus Tv
+https://tvs1.aynaott.com/nexustv/tracks-v1a1/mono.m3u8?hdnts=st=1704283849~exp=1704327049~acl=/*~data=103.109.96.226-WEB~hmac=af54b1c76c5b82d18a7dec6b25cecc220be515b187c03097a6b780ba8f240b81
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Gaan Bangla
+https://tvs1.aynaott.com/gaanbangla/tracks-v1a1/mono.m3u8?hdnts=st=1704283907~exp=1704327107~acl=/*~data=103.109.96.226-WEB~hmac=fdb94a4d9ee58a04efa32260752fc1459dc83a4f4cba70873e77946c5eb15fe8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Satv
+https://tvs1.aynaott.com/satv/tracks-v1a1/mono.m3u8?hdnts=st=1704283978~exp=1704327178~acl=/*~data=103.109.96.226-WEB~hmac=c71a24018505246f7b6f6e592e6ab52db3479b55a3a7b2ddd3be3e0f3a006783
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Gtv
+https://tvs1.aynaott.com/gtvhdforgame/tracks-v1a1/mono.m3u8?hdnts=st=1704284050~exp=1704327250~acl=/*~data=103.109.96.226-WEB~hmac=58f0f7d207c09d692b0d634b4381b76617293aded090c4902484aad931c8b9d3
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",T Sports
+https://tvs1.aynaott.com/tsportsfhd/tracks-v1a1/mono.m3u8?hdnts=st=1704284135~exp=1704327335~acl=/*~data=103.109.96.226-WEB~hmac=acecc854b7991bd2f18ae6bc60b011ce3616d457ad70f9b3f62e18cf27d33de8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Dipto Tv
+https://tvs1.aynaott.com/durontotv/tracks-v1a1/mono.m3u8?hdnts=st=1704284230~exp=1704327430~acl=/*~data=103.109.96.226-WEB~hmac=18e4ab7147604defb8a8d37b197742ef2d0bdb805a9422efd55080120a202158
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Akhon Tv
+https://tvs1.aynaott.com/ekhontv/tracks-v1a1/mono.m3u8?hdnts=st=1704284370~exp=1704327570~acl=/*~data=103.109.96.226-WEB~hmac=145294780d5a584b456c2ce6b1bad4c6393f1191a4067a906b8f6bae4bd310b4
