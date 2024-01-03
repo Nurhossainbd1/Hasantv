@@ -1,6 +1,6 @@
 #EXTM3U
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Quran Bangla
-https://tvs2.aynaott.com/iqrabangla/tracks-v1a1/mono.m3u8?hdnts=st=1704291844~exp=1704335044~acl=/*~data=103.109.96.226-WEB~hmac=7159b7cf370ee477faa750faa0b4225ec9e074e1290eb1946811c749bb62fb92
+https://ap02.iqplay.tv:8082/iqb8002/iq53la/chunks.m3u8?nimblesessionid=236373863
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV National 
 https://tvs1.aynaott.com/btvhd/tracks-v1a1/mono.m3u8?hdnts=st=1704291715~exp=1704334915~acl=/*~data=103.109.96.226-WEB~hmac=686116655a73e469d70db962acddc5a3c89b50815f341d5f11f6f9a4f9ffac2d
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV World
