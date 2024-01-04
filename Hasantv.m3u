@@ -141,7 +141,8 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/chunklist.m3u8
 https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/9834f87e-bfbf-4897-8724-9d44e31ecfa9/1.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
-
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sky Cricket
+https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
 
 
 
