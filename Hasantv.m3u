@@ -133,10 +133,25 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_20
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/zeebollywood-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Yay Bangla
 https://tvs1.aynaott.com/SonyYay/tracks-v1a1/mono.m3u8?hdnts=st=1704290649~exp=1704333849~acl=/*~data=103.109.96.226-WEB~hmac=805285789d56804b43872e4ce87f0279c5b591021b14483f9195b57874eb0bc4
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Sports Ten 1 HD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Sports Ten 2 HD
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",FIFA TV
+https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/9834f87e-bfbf-4897-8724-9d44e31ecfa9/1.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sky Open
+https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
+
+
+
+
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bein Sports 2
 https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports 1
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports 2
+https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Bangla
 https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
 
