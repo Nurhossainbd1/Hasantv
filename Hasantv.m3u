@@ -234,9 +234,17 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports 2
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Bangla
-https://food-dlvr-ott.akamaized.net/primary/4/686a061683e44b518cdf57677e352ef3/index_21.m3u8
-
-
+https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Animal Planet
+https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Wild Earth
+https://wildearth-roku.amagi.tv/masterR720P.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Science
+https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Turbo
+https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Food Network
+https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 
 
