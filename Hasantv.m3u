@@ -20,7 +20,7 @@ https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8?hdnts=st=1704419025~ex
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bangla Vision 
 https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1704419086~exp=1704462286~acl=/*~data=103.109.96.226-WEB~hmac=97afe5e0bc275ba89d91c2db0b1cf85760d65754d853ab4b1deb8c9328c3eccc
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Boishakhi Tv
-https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8?hdnts=st=1704419134~exp=1704462334~acl=/*~data=103.109.96.226-WEB~hmac=2627d2094f7039d8fcf66ca761f8a5408566c59efd2e61a2f23e1d4742331427
+https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Atn Islamik
@@ -74,7 +74,7 @@ http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Nagorik Tv
 http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Dipto Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/deeptotv.stream/chunks.m3u8
+https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-480p.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ekhon Tv
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Jamuna Tv
