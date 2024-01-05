@@ -12,15 +12,15 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV National 
 http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_playlist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV World
-https://tvs1.aynaott.com/btv_world/tracks-v1a1/mono.m3u8?hdnts=st=1704372459~exp=1704415659~acl=/*~data=103.109.96.226-WEB~hmac=6c2cf170e93abe3f85240112e4cec115cde4c897cc88bdc3d6088252238cc78e
+https://tvs1.aynaott.com/btv_world/tracks-v1a1/mono.m3u8?hdnts=st=1704418722~exp=1704461922~acl=/*~data=103.109.96.226-WEB~hmac=b63660ca435033bd94a0565e422c3f40941edf0cb9dedc4d08978e04d122ead5
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV Chottogram 
-https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8?hdnts=st=1704372417~exp=1704415617~acl=/*~data=103.109.96.226-WEB~hmac=9e1877708d2cf76cbf7242e47cffbb9ae96794a46ed0911c03bfea64676e4adc
+https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8?hdnts=st=1704418929~exp=1704462129~acl=/*~data=103.109.96.226-WEB~hmac=a6a54d524b9be81f2d351b2f7390878132ab3900872c9c15e7804445199b198f
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sangsad Tv
-https://tvs1.aynaott.com/sangshadtv/index.m3u8?hdnts=st=1704372346~exp=1704415546~acl=/*~data=103.109.96.226-WEB~hmac=34c54d95a796f01d58afad64f172802386a877619d3806135a04476669ffbdd5
+https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8?hdnts=st=1704419025~exp=1704462225~acl=/*~data=103.109.96.226-WEB~hmac=f7e8cbbbe4f87be85d1b13d60d9b4d575f34d0c784cb5d9f33d21175845dfffd
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bangla Vision 
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
+https://tvs2.aynaott.com/banglavision/tracks-v1a1/mono.m3u8?hdnts=st=1704419086~exp=1704462286~acl=/*~data=103.109.96.226-WEB~hmac=97afe5e0bc275ba89d91c2db0b1cf85760d65754d853ab4b1deb8c9328c3eccc
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Boishakhi Tv
-https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
+https://tvs1.aynaott.com/boishakhitv/tracks-v1a1/mono.m3u8?hdnts=st=1704419134~exp=1704462334~acl=/*~data=103.109.96.226-WEB~hmac=2627d2094f7039d8fcf66ca761f8a5408566c59efd2e61a2f23e1d4742331427
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Channel I
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/channeli-8-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Atn Islamik
