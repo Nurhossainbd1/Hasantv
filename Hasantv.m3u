@@ -173,8 +173,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Tv
-
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Gold HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Gold Select HD
+http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png", & Tv HD
