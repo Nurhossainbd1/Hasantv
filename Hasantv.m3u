@@ -14,9 +14,9 @@ http://103.230.105.252:1935/live/btv/manifest.m3u8-48aa-adcf-5a6c64da8c5c_3_play
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",BTV Chottogram 
-https://tvs1.aynaott.com/btvctg/tracks-v1a1/mono.m3u8?hdnts=st=1704418929~exp=1704462129~acl=/*~data=103.109.96.226-WEB~hmac=a6a54d524b9be81f2d351b2f7390878132ab3900872c9c15e7804445199b198f
+http://188.241.219.18/live/Anne/Anne/3818.ts?token=ShJcU0BbQQNHWgEKU1cDDQEHVlUEBFUFCFVTUVRTBQsHAgdQBwNWDQcbGBpEF0dcWF1vWQIXXlIJU1obRxFAV0NvXVYRCUENUQ8NDQJBGRtNWV1VRA9VVgFWVAFWUgIKHRJEW1cRWRtUDQUIDkEZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAEQZRghCEkANCxFfXh0SVltHQQJNABsOGgFbBRsVElNfE1sQE0hAWBUwNxEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsACQZaF0Q=
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sangsad Tv
-https://tvs1.aynaott.com/sangshadtv/tracks-v1a1/mono.m3u8?hdnts=st=1704419025~exp=1704462225~acl=/*~data=103.109.96.226-WEB~hmac=f7e8cbbbe4f87be85d1b13d60d9b4d575f34d0c784cb5d9f33d21175845dfffd
+http://188.241.219.14:25461/live/Anne/Anne/413.ts?token=ShJcU0BbQQNHCgVdUlsECl1WBAgADQdUBQMDUVxSA1ZVVQYFBAZWDlAbGBpEF0dcWF1vWQIXXlUAUU4VEBdWQG5ZUBAJEVcNUwABDRVPF01QXVUSXARTUQVUVARQVgseE0BdVhEJQQpSCQUIFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWDg5XFxUbU19FCEEWGBNYQGI2Rh8QVEhAV11AClYLGw4aQxAXFRtZQ28UUBcVQwcDWgAWEQgTABYeEV4CQTpaW1ZZBlZNUF9eQ0QPRlATTkBaCgpaRl5Ca0JaV0EDRwgHCwBSF0Q=
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bangla Vision 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Boishakhi Tv
@@ -144,7 +144,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Colors Bangla
 http://gf.sawatvplus.store:8080/162CBD932E2C/61deba24e4ffd/45839?token=TRoMAENYRgtAXlJVUAFSAVNUVQICAgIBCgdUUA9WBwMCWwACUgFSAQNETURAEBNUUQ47WFNDCVYNCFcLG0cRR1NKOwhUEl4TU1VVVgFGTRNECglUFVsCVQgEUgcPUlMEGhoUCFQSXhNQV1VXCldVExxBAUlDBEEMWVw7VlITDVdTGl4PRVwIHUAJDzlXAQxQXgdGCxVQEU4aWRdCFV9GcF9fDUF6UQBeDUYjFFwFBVNRDQARexVXQBQSBltDFwVAUxpeQwECUgRASkMFXBEPRUIaRgsVI3dAFBIBSkMACkdfVwpDChIQQkBKQw9AOxNUQxcWVFYMVhAaCkYCFUlGWVdAOwJfXgpUARIICV0XQwsSUkYdFQxcDFFEC0BoFQ1QFAJGUwEEVQhSVkMb
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sun Bangla 
-http://103.132.181.118:82/play/a00s
+http://188.241.219.178:25461/live/Anne/Anne/3753.ts?token=ShJcU0BbQQNHXwIOVQBTCwgBUlFXAAUEBQEAVgNUBFZTVgYGAgdXDAMbGBpEF0dcWF1vWQIXXlIGV1EbRxFAV0NvXVYRCUENUQ8NDQJBGRtNWV1VRA9VVgFWVAFWUwIFHRJEW1cRWRtXDAYJAUEZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAEQZRghCEkANCxFfXh0SVltHQQJNABsOGgZRAg4bHBJTCUAKFUMbQA1HMWAQHRJRSkdWDUoMVloaDUFBShscElkVahYEQhYQUgQJVkATChYCER9BVARBa1tYDVtcWkRZXwhGRlsTU0AbRwlcXFhEW0BsQwpdRwMWDQRXF0Q=
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Jalsha Movies
@@ -152,9 +152,9 @@ http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155771&extensi
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Enter 10 Bangla
-https://live-bangla.akamaized.net/liveabr/playlist.m3u8
+http://46.229.253.27/live/Anne/Anne/3801.ts?token=ShJcU0BbQQNHX1YIAFoFWg0CBggFAwAFBVQHDlJRB1EDVAELUgJRC1YbGBpEF0dcWF1vWQIXXlIJUlMbRxFAV0NvXVYRCUENUQ8NDQJBGRtNWV1VRA9VVgFWVAFWUwQDHRJEW1cRWRtUDwwPBlYFGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBg0JCBIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVSBA4LAhJN
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Akash 8
-http://103.132.181.118:82/play/a00s
+http://46.229.253.27/live/Anne/Anne/396.ts?token=ShJcU0BbQQNHAVUBAgUHAAEBBwFTBlFUBwMGUlddBARQAwYDBVUCD10bGBpEF0dcWF1vWQIXXlIIVE4VEBdWQG5ZUBAJEVcNUwABDRVPF01QXVUSXARTUQVUVARdVgYeE0BdVhEJQQhcCAUJBVEXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVSDAgPEhwSBVoRD0UQGxVfRmZhExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgFXAwwbTQ==
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Dhoom Music 
