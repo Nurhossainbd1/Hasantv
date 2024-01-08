@@ -191,6 +191,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Max
 https://bdsajib112.000webhostapp.com/api/bdaynaa.php?id=90&e=.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Entertainment Tv
+http://103.120.172.74:1110/
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Pal
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Colors Hd
 http://103.132.181.118:82/play/a00g
