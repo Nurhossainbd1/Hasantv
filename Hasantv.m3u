@@ -287,12 +287,12 @@ http://103.120.172.74:5300/
 http://176.119.29.52/live?channelId=302&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",A Sports 
 http://livetvbox.live:8080/live/Anne/Anne/43444.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ten Sports 
-http://188.241.219.62/live/Anne/Anne/98.ts?token=ShJcU0BbQQNHClABAFNTDgkDCQhVDAICCQQGB1ZcAwAJUwUGUlFaAFIbGBpEF0dcWF1vWQIXXlgJTkBCFgFBbVhUFggRB1cPXAwBGhtBQVBUVRIKVwJUVQdUVg5RXR8QQVlQEAkRUAtQCwIKBEEZG1xIRFUUWwUNbgYHQQwHVhALXkFeXx9BVgtmUF1aAltdGwoSAEQZRghCEkANCxFfXh0SVltHQQJNABsOGgVTDQsbHBJTCUAKFUMbQA1HMWAQHRJRSkdWDUoMVloaDUFBShscElkVahYEQhYQUgQJVkATChYCER9BVARBa1tYDVtcWkRZXwhGRlsTU0AbRwlcXFhEW0BsQwpdRwMWCQRRBwwbTQ==
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",SPORTS TV 
+https://headlinessportsfoot.com/chunklist/hlsch6.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ten Cricket
 http://livetvbox.live:8080/live/Anne/Anne/196594.ts
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sports 18 
-http://188.241.219.178:25461/live/Anne/Anne/213049.ts?token=ShJcU0BbQQNHDFZeD1sFCQAHUQkEU1VWAQFTDgcBAARQVgIDAgJSXAYbGBpEF0dcWF1vWQIXXlMAUVIDXEgRR0JVRm1aV0EDRw0ADg5WABsVEkRZC1BGWwBVUgNTUgYDAQYYEENaBxtfGwUBBlYEGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBAoABRIcRFYLFF8WEE5HXhFnYhIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVSAQkNBRJN
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",PREMIER SPORTS1
+https://mlb.mrgamingstreams.com/prem.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",FIFA TV
 https://38ca3c9c.wurl.com/manifest/f36d25e7e52f1ba8d7e56eb859c636563214f541/U2Ftc3VuZy1nYl9GSUZBUGx1c19ITFM/9834f87e-bfbf-4897-8724-9d44e31ecfa9/1.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",FIFA Plues
