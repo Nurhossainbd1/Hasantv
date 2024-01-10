@@ -237,7 +237,7 @@ http://103.223.14.56:8000/play/a0ti/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Rongeen Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Disney
-http://82.115.12.142:8080/live/play/U0hwc2RVWm1XRGxPY2tac2NERXllVmxwVHpWek9GZFNWSFZQTTBzMVJsbENVa3BXTWpSMFJWcGpaejA9/156000
+https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Nick Hindi
 http://us-e1.watchindia.net:8880/live/17524/03503/2182.ts?token=TRINVkBbGwkUAQ4AVFNbWgwICgFZBVNcU1VcAgpcXFoGVAADB1FYBwQSFRIXQxAGWVVmWlwSWApXW1cbGhBKBkRvDFMRCRsKBwIBEkgVFgpVXRsJCQdSDFFbUgQMURVBRlkBFQkRDwoCBwAIRhtABkBMXEFWUQ5nAgYTXlsAG1lYRQlbHxFWXWlUXF0FWQZBAhoJERQSC0sWQV9ZTQlVTxRSDENBUk1WFAobAVMOVkEUGlpcTV4WSh9BXxV6IRtPFFUdQ1ZdSlpZXhsKRkMRQRQaUEBnQgdLEhEAVlUAS0EMElUVHxFUUk5vWl8KWQcATFFWXUsSWBpVQUkVVQpXCkJfF2hDWl0RDBIIBVEHUVMAGkQ=
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Kids
@@ -247,6 +247,8 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Cartoon Network 
 https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-360p.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Cartoon Network Hindi 
+https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",TOON TUBERS
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",TOON GOOGLE
@@ -257,6 +259,8 @@ http://82.115.12.108:8080/live/play/TnpOaVZtWk9SVEZHV1hkTFdYWnFZVVpCVW1oc1ozWk5k
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic
 http://117.55.203.8:8070/live/34223073/2cdb1b8d70/192988.ts
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",WOW Kids
+https://yuppirecloriginvt.akamaized.net/31072023/smil:wowkidzhin.smil/chunklist_b2628000.m3u8?hdnts=st=1704847013~exp=1704847613~acl=!*/31072023/smil:wowkidzhin.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/payload/yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183/*~hmac=843baf69453375fb993d69373dd21727f396f137003ee3d40aa9d915efb79069&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4002&ads.channel_name=WOWKidz-Hindi&ads.network_name=yupptv&ads.user=1
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Tom & Jery 
 http://82.115.12.155:8080/live/play/Y25GcVQwSTFWbTQ0VWxwdlJUZDJiRGwwZURaS0sxRmxRbEZQZFUweWVWWnJTa2N4UmxsS09EZExaejA9/116162
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",KIDS FLIX
@@ -269,8 +273,8 @@ https://amg01448-samsungin-pogo-samsungin-dzccl.amagi.tv/playlist/amg01448-samsu
 https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zoo Moo
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Hungama
-http://46.229.253.27/live/Anne/Anne/66162.ts?token=ShJcU0BbQQNHDVdcBwFTDl0AAlZeAAEEBFJaVgQAUFZVVVUKUQoBWlAbGBpEF0dcWF1vWQIXXlcHU1QFSUZGQVRCa1tXEVkbUQ0CAQJWFxUbRFldAxdeUAZSVgFTUwYHBhwWQlpXQQNHCwcIB1ICDBscElUeQQETXwMOaAEBRVtSVRYIXUYPVUkbW1ZoB1BUWF5UElwXVEMdQAtEFUYJXERcWB4RUQpNF1hAXRVZFwgKCAISShcHDkQMFkUcRgkQZGMWHhFWG00AV0dRWA0XAxtEQxJKFw0SbhAHRBEWVlNcVUYQCRFTG0kbWVlPPFZWV15VUxJcCw9CQFgVVEYfEFxfWltHXBFmFVBQGg1BBAANCQcIVxcZ
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Baby First
+https://streams.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/anyaott4_sofast/3d21d9ee-e2b7-49f7-93da-7d459f89e083_0_HLS/manifest.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",AB MASTII
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-mastiiin-samsungin/playlist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",9X JHAKAAS
