@@ -147,7 +147,7 @@ http://103.132.181.118:82/play/a008
 http://103.132.181.118:82/play/a00s
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/NfRjZn6W/A0EWDDo.png",Sony Aath
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/SONY-AATH/video.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Jalsha Movies
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg",Jalsha Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg",Zee Bangla Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebanglacinema/default/zeebanglacinema-audio_208482_und=208000-video=2137600.m3u8
@@ -175,21 +175,21 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Mtvbeats/default/mtvbeats-audio_2084
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Gold HD
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png", & Tv HD
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",& Picture HD
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Sab HD
 http://195.26.87.217/live.ts?channelId=191&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Max
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/V6Mfc4Yt/Sony-MAX.png",Sony Max
 http://195.26.87.217/live.ts?channelId=184&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Max 2
 http://208.86.19.13:81/7300.stream/index.m3u8
@@ -199,17 +199,17 @@ http://195.26.87.217/live.ts?channelId=189&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://103.120.172.74:1110/
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sony Pal
 http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Colors Hd
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
 http://103.132.181.118:82/play/a00g
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Colors Cineplex Superhit
 http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Cinema
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Cinema HD
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Tv HD
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png",Zee Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetv/default/index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Anmol
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Zee Anmol Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmolcinema/default/index.m3u8
@@ -227,13 +227,13 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebollywood/default/zeebollywood-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Plues Hd
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg",Star Plues Hd
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",B4U Movie
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",DD National 
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",KHUSHBOO BANGLA
 http://103.223.14.56:8000/play/a0ti/index.m3u8
