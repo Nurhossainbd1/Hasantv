@@ -43,7 +43,7 @@ https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w818
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ekushey Tv
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png",Ekushey Tv
 https://ekusheyserver.com/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://livess.jagobd.com.bd/live-orgin/mytv-up-off.stream/chunks.m3u8
@@ -254,7 +254,7 @@ https://playout.cdn.cartoonnetwork.com.br/playout_06/playlist-360p.m3u8
 https://amg01448-samsungin-cartoonnw-samsungin-1y8kz.amagi.tv/playlist/amg01448-samsungin-cartoonnw-samsungin/cb553d1e786c648b93d43d63d5ef41a4d3246ad3032e90703dff06c231901d468ca2f9d3f537b63619d714af3f5e2f0e0433db18dd6511b6802eea0e6d287f09cfcceb2ada861317b3c60e383ebb281700ab0941d8380220dcec5759d438b0340446b00a230f338fbe51aa7e55978808821d57b189e5a4fd04706ded294fdfd20ffda8bd0c118d2ff9932372a75e26c7199604e6368ff19702cf69b66cc1168caa08baf212e7868bfa2a50c24d1bb2ccf90b774fb3833797c9936876b879294d1f6fb8c9cbfc4a7292524159fafadfbe37b04a80d165c94c3eb5158014a53e8e79a500a3a11ff3e4fbfe4c452babcd5f590aa5e1a98ba87a62f337b5f39bbd091c93944c2a5fa8718f3a353705d56f1c4b0b9a90d86276/82/640x360_1284800/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png",TOON TUBERS
 https://playout.cdn.cartoonnetwork.com.br/playout_02/playlist.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",TOON GOOGLE
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/oyIMxzM.png",TOON GOOGLE
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",MR Ben
 http://82.115.12.109:8080/live/play/VFZGS1YxWlBVMWh6U0c1Qk1VbG1TbUV3YzNsT2JHZEZTMlZuVFUwemEweEJiSHAxU25ScVJHb3pVVDA9/587342
@@ -266,7 +266,7 @@ http://117.55.203.8:8070/live/34223073/2cdb1b8d70/192988.ts
 https://yuppirecloriginvt.akamaized.net/31072023/smil:wowkidzhin.smil/chunklist_b1628000.m3u8?hdntl=exp=1705041254~acl=!*/31072023/smil:wowkidzhin.smil/*!yuppTVCom_61_-1_74cfeb9d9020485a_BD_103.109.96.226/payload/yuppTVCom_61_-1_74cfeb9d9020485a_BD_103.109.96.226/*~data=hdntl~hmac=57872f6692b079bc58cdca7ff2917d5a823d0a6a65bbc94db1696e1fc7185478&hdnts=st=1704954845~exp=1704955445~acl=!*/31072023/smil:wowkidzhin.smil/*!yuppTVCom_61_-1_74cfeb9d9020485a_BD_103.109.96.226/payload/yuppTVCom_61_-1_74cfeb9d9020485a_BD_103.109.96.226/*~hmac=13aed32d0985902bcdc13750cc9b85f1af48e5352f76cdd1ea4f0aa40fd0cf62&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=HIN&ads.content_genre=ENT&ads.channel=4002&ads.channel_name=WOWKidz-Hindi&ads.network_name=yupptv&ads.user=0
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Tom & Jery 
 http://82.115.12.157:8080/live/play/VW5aUVp6UmlLelZYTlVReVptcFJXV2RYTTNndk1VbDZOa3A1Y2pSa2RVOVFhelZ2TkRKNVdtazNRVDA9/116162
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",KIDS FLIX
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/zZGg7Fj/Eamin-Vai.png",PBS KIDS
 https://2-fss-2.streamhoster.com/pl_140/amlst:200914-1298290/chunklist_b2000000_DVR.m3u8?DVR
@@ -390,17 +390,17 @@ http://xtv.ooo:8080/live/122461/4627451/167577.m3u8
 http://xtv.ooo:8080/live/122461/4627451/167578.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports Select2
 http://103.120.172.74:4700/
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Bangla
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Animal Planet
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
 https://food-dlvr-ott.akamaized.net:443/primary/3/def27b3dd6854290bc7f42daa93c65ea/index_15.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Science
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
 https://food-dlvr-ott.akamaized.net/primary/3/7bc4c0346616426e806fa3b79ca70ca6/index_12.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Discovery Turbo
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Food Network
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 
 
