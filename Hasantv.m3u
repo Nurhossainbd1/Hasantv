@@ -344,7 +344,7 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Geo Super 
 http://livetvbox.live:8080/live/Anne/Anne/101.ts
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ptv Sports 
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Astro Tv
 http://176.119.29.52/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
@@ -380,11 +380,11 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",beIN Sports France 3
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports 1
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://img.viewcineplex.com/images/starsports1.png",Star Sports 1
 http://41.205.93.154/STARSPORTS1/index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports 2
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://img.viewcineplex.com/images/starsports2hd.png",Star Sports 2
 http://103.120.172.74:4200/
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports 3
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://img.viewcineplex.com/images/starsports3.png",Star Sports 3
 http://xtv.ooo:8080/live/122461/4627451/167577.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Star Sports Select 1
 http://xtv.ooo:8080/live/122461/4627451/167578.m3u8
