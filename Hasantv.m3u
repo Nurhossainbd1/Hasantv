@@ -61,7 +61,7 @@ https://niptv.kitv.live/MAASRANGA-TV/tracks-v1a1/mono.m3u8
 http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Channel 24
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ekattor Tv
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
 http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Asian Tv
 https://bdsajib112.000webhostapp.com/bdaynaa.php?id=24&e=.m3u8
@@ -71,9 +71,9 @@ https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Satv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/satvoff5666.stream/chunks.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Gtv
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",T Sports
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Nagorik Tv
 http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60eed4ec039a346e236af30343-81ba92c91fb6b827b031f894ef1cbb1e-1704299585-1704288785
@@ -81,7 +81,7 @@ http://10.192.0.3:8082/LIVE-SPORTS/tracks-v1a1/mono.m3u8?token=503d6e22cffcdf60e
 https://byphdgllyk.gpcdn.net/DeeptoTV/deeptotv-480p.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Ekhon Tv
 http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Jamuna Tv
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/hR57wkL/Jamuna-Tv1664825738.jpg",Jamuna Tv
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Jago News 24
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/jagonews24.stream/chunks.m3u8
