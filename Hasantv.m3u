@@ -39,6 +39,8 @@ https://deshitv.deshitv24.net/live/myStream/playlist.m3u8
 http://195.26.87.217/live.ts?channelId=93&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/RTV.png",R tv
 https://streamingengine.rtvplus.tv/rtvpluslive/rtvpluslive.stream/chunklist_w81829040.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",R Tv Music
+https://manifest.googlevideo.com/api/manifest/hls_variant/expire/1705038598/ei/pn6gZbWkLoXQjuMPi5yf8A0/ip/172.68.231.148/id/WBMGKDN-AIo.1/source/yt_live_broadcast/requiressl/yes/xpc/EgVo2aDSNQ%3D%3D/hfr/1/playlist_duration/30/manifest_duration/30/maudio/1/spc/UWF9f-iI3JoxCbt1G2MjaNEF_mfAA1E4_esGg7-WtLrz944/vprv/1/go/1/pacing/0/nvgoi/1/keepalive/yes/fexp/24007246/dover/11/itag/0/playlist_type/DVR/sparams/expire%2Cei%2Cip%2Cid%2Csource%2Crequiressl%2Cxpc%2Chfr%2Cplaylist_duration%2Cmanifest_duration%2Cmaudio%2Cspc%2Cvprv%2Cgo%2Citag%2Cplaylist_type/sig/AJfQdSswRgIhAJc-JqdDbxqXoTj-_SaYMaafMbEUTREMGXCVAlZ_StBbAiEArRF1aSrXzHIRSFgbXjuCPoSTOO_dBXRu6raWELQik6E%3D/file/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg",Ntv
 http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe 
