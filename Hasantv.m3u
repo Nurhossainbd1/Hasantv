@@ -281,7 +281,7 @@ https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",WOW Kids
 
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Tom & Jery 
-http://5wnn20o331585461t.ukdi.stable-cdn4.me:8080/live/play/YTJGalNDOU9lbWxCYlRZd1QyUTFaWHB3WTFBMmRYcHNPR050UTJaR1JXOHdkMDEzT1N0NUwxZFlORDA9/767760
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",KIDS FLIX
 https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=50
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/nOYdnaK.png",PBS KIDS
@@ -304,8 +304,9 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhoj
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/u44VPox.png",Sony Sports 3 HD
-http://188.241.219.62/live/ddtt7799/ddtt7799/146.ts?token=ShJcU0BbQQNHAVIBB1NUCFwCVVNSAwFVBAYBA1EHUVYBUwwCAQNWXFAbGBpEF0dcWF1vWQIXXlAFVE4VEBdWQG5ZUBAJEVYLVA0ADhVPF01QXVUSXARTUQVbVwNRUgAeE0BdVhEJQQhcCQwNAlMXFRtVSEQDRwoAXT0GUhMNUFcTClpHX19PGwpXa1xSDlRXXRIKElYXSENYERIVXwpGXl0cFlBaRxFYEVwWAhVQAgoOEhwSBVoRD0UQGxVfRnF2ExwWV0tHBlcWUFtWFVkXTUoSHBIPRjsTVBEWRQAFXldDEg4QAxFPGwhYTGdUDFtXXFNEWQlbF0MLQFMVSUZeXV9ZQF1BbBNQARsOGgZQBw0MEk0=
+#EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="Powered By Hasan", Sony Ten 3
+https://nayeem-ayna1.000webhostapp.com/aynax.php?id=79&e=.m3u8|User-Agent=nayeemxyz9
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/AHfSMSb.png",Sony Sports 4 HD
 http://188.241.219.62/live/ddtt7799/ddtt7799/29469.ts?token=ShJcU0BbQQNHDFILVVEEAAEIUlFRUwZZU1UDAAFWBFQJAgYDUAIFClUbGBpEF0dcWF1vWQIXXlMIVlQOSUZGQVRCa1tXEVkbUAsFDANVFxUbRFldAxdeUAZSVg5QUAYHBBwWQlpXQQNHAQwMBVcNGxUSVUgSUBYPUA49UwASWlFUEg5cRl8PFUdWWmdTBlhYV1QSCkQFRk0TCxFHR15dR11cGBBRWhdLBE1RGg1BBgABBBIcRFYLFF8WEE5HXhFwdRIYEFZLF1wLSl1XWUEPG01DEhxEXBc+QwcRQxcBUl9UQhYIEQNBFUdUVUBoAFpXV1VTRA9aChITWEAGR0gRX15eXUZcQTxJDF0WAhVSBw8MBgkHREg=
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/Q1ULfns.png",Sony Sports 5 HD
