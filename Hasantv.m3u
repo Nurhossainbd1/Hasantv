@@ -65,7 +65,7 @@ http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 https://livess.jagobd.com.bd/live-orgin/channel24-sg-e8e.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
 http://195.26.87.217/live.ts?channelId=95&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="Bangladeshi",Asian TV
+#EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="Powered By Hasan",Asian TV
 https://nayeem-ayna1.000webhostapp.com/aynax.php?id=24&e=.m3u8|User-Agent=nayeemxyz9
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png",Nexus Tv
 https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
@@ -189,7 +189,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/ktgkqwj.png",Star Gold Select HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-SELECT-HD/video.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png",Star Gold Romance
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/x1V0n6KH/Star-Gold-Romance.png",Star Gold Romance
 http://103.132.181.118:82/play/a00m
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/OujQ9gL.png",Zee Tv HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482_und=208000-video=2137600.m3u8
@@ -197,7 +197,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetvhd/default/zeetvhd-audio_208482
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
-#EXTINF:-1 group-title="Indian" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",& Flix HD
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",& Flix HD
 http://103.132.181.118:82/play/a00x
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/zFJH165.jpg",Sony Kal
 https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
