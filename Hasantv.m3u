@@ -257,8 +257,8 @@ http://103.223.14.56:8000/play/a0ti/index.m3u8
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney
 https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Nick Hindi
-http://195.74.93.163/live/ddtt7799/ddtt7799/205.ts?token=ShJcU0BbQQNHAQ0IU1RUCwoJU1RVAVMECABbUgYCBwNVBFIGBgYFWlIbGBpEF0dcWF1vWQIXXlMBV04VEBdWQG5ZUBAJEVYLVA0ADhVPF01QXVUSXARTUQVbVwNXXQseE0BdVhEJQQ1VDQQBFU8XXEFEVUIIVAg+VQcUXgYBEQhfRVheHxEMVzpdUVVWDVEbAxIAEkoXDRJBQFhZEAhfHhNSXUZBUhdcRwMWCQFUDBsVElNfE1sQE0hAWBUnIBEeE1VMRlZdEFAKVxYCFRdGGxUSWUM5RwESRRAHVggBQRALEgQQHxEOWB1mV1dZDVBaTVlfXhUXXkMAQE4VCAtdW0VfRm1DWgcbXxsCDgZQF0Q=
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Super Hangama
+http://dpny2.1234.uno:6061/superhungama/index.m3u8?token=9741b96ecbbd928b7153d01278844651
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
