@@ -407,8 +407,11 @@ https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 https://247b.mrgamingstreams.com/mrgamingtennis.m3u8
 
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/NAsylzo.jpg",Bein Sports 1
-https://edge2.laotv.la/live/Bsport1/sc-gaFECQ/a0_index.m3u8
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="Powered By Hasan", beIN Sports 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://live-streamfootball.com/
+http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61168.m3u8
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bein Sports 2
 https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports 3
