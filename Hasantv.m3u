@@ -451,5 +451,6 @@ https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/i
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
 http://195.26.87.217/live.ts?channelId=12364&uid=7435&deviceMac=00:1A:79:51:4B:3A
-
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/M5lptE4.png",Al Jazeera 
+https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 
