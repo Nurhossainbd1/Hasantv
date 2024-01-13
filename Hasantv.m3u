@@ -77,6 +77,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://113.212.111.246:8080/hls/col12.m3u8
+
+#EXTINF:-1 group-title="Toffe" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14) AndroidXMedia3/1.1.1/64103898/4d2ec9b8c7534adc
 #EXTHTTP:{"cookie":"Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9ibGRjbXByb2QtY2RuLnRvZmZlZWxpdmUuY29tLw:Expires=1704950278:KeyName=prod_linear:Signature=KY02XMK8LEzuhSDS867UgVahF2y8hxaBTA3RbbXvepIsblkYY0IO9uazqvfcEQZnkrBYdX_nY4n7NRqb2hAIBA"}
 https://bldcmprod-cdn.toffeelive.com/cdn/live/nagorik_tv_hd/playlist.m3u8
