@@ -260,8 +260,8 @@ http://103.223.14.56:8000/play/a0ti/index.m3u8
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney
 https://kingkohli.pages.dev/Play/DisneyHD_Watch_index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hangama
-http://dpny2.1234.uno:6061/superhungama/index.m3u8?token=749933665a34fff50e8822fa2fd2e446
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/YTfbaxj.png",Nickelodeon 
+http://195.26.87.217/live.ts?channelId=254&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/xbQSPP3.png",Discovery Kids
 https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
