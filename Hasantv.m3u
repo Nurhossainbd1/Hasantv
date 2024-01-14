@@ -282,6 +282,16 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="Powered By Hasan", DHINCHAAK
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=153&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="Powered By Hasan", GOLDMINES
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=154&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="Powered By Hasan", GOLDMINES MOVIES
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=156&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="Powered By Hasan", GOLDMINES BOLLYWOOD
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=155&e=.m3u8|User-Agent=bdsajib
+#EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="Powered By Hasan", DHAMAKA MOVIES
+https://bdsajib112.000webhostapp.com/bdaynaa.php?ic=191&e=.m3u8|User-Agent=bdsajib
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png",KHUSHBOO BANGLA
