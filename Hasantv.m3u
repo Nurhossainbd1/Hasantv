@@ -294,6 +294,8 @@ http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
+https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
 http://195.26.87.217/live.ts?channelId=152&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
