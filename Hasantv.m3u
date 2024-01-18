@@ -232,6 +232,8 @@ http://103.120.172.74:1110/
 http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
 http://103.132.181.118:82/play/a00g
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
+http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/MyfKDWw.png",Colors Cineplex
 http://195.26.87.217/live.ts?channelId=470&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/20dvTcf.png",Colors Cinema Bollywood 
