@@ -466,7 +466,17 @@ https://ddy5.webhd.ru/ddy5/premium620/tracks-v1a1/mono.m3u8
 https://ddy5.webhd.ru/ddy5/premium621/tracks-v1a1/mono.m3u8
 
 
-
+ {
+    "name": "U19 CWC",
+    "link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F47%2Findex.m3u8&token=09b5b2e6bc83eb35aaa0bbc485d5aa80ddcd94ea&is_vip=false&verify=1705644000-aRWR1ET7S4ZKsKP2TqwWphFIrM4PQfh6oXVmnopnGPY%3D",
+    "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+    "origin": "",
+    "referer": "https://live-streamfootball.com/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
 
 
