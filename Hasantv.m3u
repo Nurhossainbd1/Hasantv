@@ -445,7 +445,7 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/5YxbUFg.png",Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Sky Cricket
-https://247c.mrgamingstreams.com/mrgamingcricket.m3u8
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/nYO69bl.png",ONE Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
@@ -460,7 +460,8 @@ https://247c.mrgamingstreams.com/mrgamingbtsport4.m3u8
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 
 
-
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/i2CmUmf.png",W Sports
+http://210.210.155.35/session/605fd6de-b7e2-11ee-a7eb-94028ea90780/uq2663/h/h26/S4/mnf.m3u8
 
 
 
