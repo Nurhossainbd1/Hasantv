@@ -395,7 +395,7 @@ http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
 
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/AHfSMSb.png",Sony Sports 4 HD
-http://85.92.112.52:8080/live/play/TjJkUk1sVkZNMU5hVlRWRU1qVlJSa1pYYkV4cFJWTm1SVGt4VERKbFNHMUVkMmhaY0UxNWRGTTJUVDA9/1114579
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/Q1ULfns.png",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/g2TtQqvn/image.jpg",WWE
@@ -531,7 +531,7 @@ http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w870549950_b596000.
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
 http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
-http://rxi0fk7v2674105q.f17s20.sosoxty.me/live/play/Ym00clp6QlphbTh2ZW5WM2JWTk9ha3BJUVhSTVdYUkxOMkpyUXpoUFZWWkZVVzFsVDBNM2FYQTVORDA9/155976
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
 http://103.132.181.118:82/play/a00u
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select2
