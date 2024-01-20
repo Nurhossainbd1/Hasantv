@@ -484,7 +484,10 @@ https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-w
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Super Cricket
 https://247c.mrgamingstreams.com/mrgamingsscric.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Geo Super 
-http://livetvbox.live:8080/live/Anne/Anne/101.ts
+
+#EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="Powered By Hasan",Variety 2
+http://supersonictv.live:8080/419094/970686/86866
+
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
 http://175.107.244.52:4457/play/a08g/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/HoL7QWy.png",Astro Tv
