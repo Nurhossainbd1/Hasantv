@@ -395,7 +395,7 @@ https://bongohub.pw/bioscope.php?cc=sony-ten-3-live
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 1
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
-http://113.212.111.246:8080/hls/col12.m3u8
+https://nayeem-ayna1.000webhostapp.com/aynax.php?id=28&e=.m3u8|User-Agent=nayeemxyz2
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 3
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 
