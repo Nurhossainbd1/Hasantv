@@ -583,47 +583,47 @@ http://103.132.181.118:82/play/a00u
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=43
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic 
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic 
 http://103.132.181.118:82/play/a006
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="Powered By Hasan",  CGTN DOCUMENTARY
 https://livedoc.cgtn.com/1000d/prog_index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=75
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
 https://food-dlvr-ott.akamaized.net/primary/4/2cffc9dc1c024fbca4f76a434451f7c5/index_11.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png",Food Network
+#EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/pXdm6gtB/640px-Food-Network-logo-svg.png",Food Network
 https://dplus.gammacdn.workers.dev/videos/112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="Powered By Hasan", TRAVELXP
+#EXTINF:-1 tvg-id="" tvg-name="TRAVEL XP" tvg-logo="https://i.ibb.co/kqbnDVX/Picsart-23-07-01-22-11-33-076.png" group-title="DOCUMENTARY", TRAVELXP
 http://148.113.5.31:8106/play/a01o/index.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="Powered By Hasan", FOOD FOOD
+#EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="DOCUMENTARY", FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg",History Channel 
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg",History Channel 
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=44
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=63
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/M5lptE4.png",Al Jazeera 
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/M5lptE4.png",Al Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/j8nqQXR.jpg",Ary Zindagi
+#EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/j8nqQXR.jpg",Ary Zindagi
 http://195.26.87.217/live.ts?channelId=392&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/CS38Mag.jpg",Atv HD
+#EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/CS38Mag.jpg",Atv HD
 http://195.26.87.217/live.ts?channelId=394&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/CVK0RDC.jpg",Aur Life Hd
+#EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/CVK0RDC.jpg",Aur Life Hd
 http://195.26.87.217/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/nQRAjih.jpg",Green Entertainment 
+#EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/nQRAjih.jpg",Green Entertainment 
 http://195.26.87.217/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/RnWZ864.png",KBS World 
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/RnWZ864.png",KBS World 
 https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg",TLC HD
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg",TLC HD
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=57
