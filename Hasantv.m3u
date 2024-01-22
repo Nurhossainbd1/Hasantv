@@ -115,7 +115,7 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="Powered By Hasan", DURONTO TV
-https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8|User-Agent=bdsajib
+https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=36
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png",CHANNEL S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png",NRB HD Tv
