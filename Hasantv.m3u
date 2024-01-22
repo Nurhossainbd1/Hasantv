@@ -215,9 +215,9 @@ https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.postimg.cc/dVw9GC6m/download-2.jpg",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/jETKTRb.jpg",Boogle Bollywood 
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jETKTRb.jpg",Boogle Bollywood 
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",Music India
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-GOLD-HD/video.m3u8
@@ -393,11 +393,11 @@ https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg0
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hungama
 
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
 https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=123
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/zkRAgqv.jpg",Songeet Bhojpuri
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
