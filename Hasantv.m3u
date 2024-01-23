@@ -520,7 +520,7 @@ http://supersonictv.live:8080/419094/970686/86865
 http://supersonictv.live:8080/419094/970686/86866
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
-http://175.107.244.52:4457/play/a08g/index.m3u8
+https://cdn.retosprime.com/ayna.php?id=47&e=.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Astro Tv
 http://176.119.29.52/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sport 2
