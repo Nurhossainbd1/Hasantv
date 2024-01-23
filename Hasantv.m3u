@@ -396,8 +396,8 @@ https://streams.spacetoon.com/live/stchannel/smil:livesmil.smil/chunklist.m3u8
 https://amg01553-blueantmediaasi-zoomoonz-samsungnz-rdufn.amagi.tv/playlist/amg01553-blueantmediaasi-zoomoonz-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/YTfbaxj.png",Hungama tv
 http://humiptv.live:8080/live/wasim/wasim1234/18456.ts
-#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/YTfbaxj.png",Super Hungama
-
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/s0I9JCk.png",Doraemon 
+http://humiptv.live:8080/live/wasim/wasim1234/147746.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/WpZWBD3/Picsart-23-06-09-15-55-22-667.png",AB MASTII
 https://cdn.retosprime.com/ayna.php?id=123&e=.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/f9Y7fyx/Picsart-23-07-17-01-06-02-939.png",9X JHAKAAS
