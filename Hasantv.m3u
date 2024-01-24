@@ -426,7 +426,7 @@ https://prod-ent-live-gm.jiocinema.com/hls/live/2099128/hd_akamai_merged_avc_eng
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/AHfSMSb.png",Sony Sports 4 HD
-
+http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=1114579&extension=ts&play_token=R61REv8mjp
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q1ULfns.png",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/g2TtQqvn/image.jpg",WWE
