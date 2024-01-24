@@ -409,7 +409,7 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="SPORTS", Sony Ten 3
-https://anya-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=79
+https://cdn.retosprime.com/ayna.php?id=79&e=.m3u8
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 1
 https://cdn.retosprime.com/ayna.php?id=19&e=.m3u8
@@ -580,9 +580,9 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports France 3
 https://edge1.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
-http://41.205.93.154/STARSPORTS1/index.m3u8
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
-https://cdn.retosprime.com/ayna.php?id=43&e=.m3u8
+http://103.120.172.74:4200/
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
