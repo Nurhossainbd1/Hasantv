@@ -484,6 +484,15 @@ https://i.mjh.nz/SamsungTVPlus/ESBC2700009B4.m3u8
 #EXTINF:-1 tvg-logo="https://www.cabletv.com/app/uploads/fifa-plus-logo-small.png" group-title="SPORTS", FIFA Plus
 https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CK5BbFy.jpg",Criclife 1
+http://xtv.ooo:8080/live/Adeel994/426154/371469.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/j22ggjf.png",Criclife 2
+http://xtv.ooo:8080/live/Adeel994/426154/371470.ts
+
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HajfK41.png",Criclife 3
+http://xtv.ooo:8080/live/Adeel994/426154/371471.ts
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5YxbUFg.png",Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Sky Cricket
