@@ -495,8 +495,8 @@ http://xtv.ooo:8080/live/Adeel994/426154/371471.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5YxbUFg.png",Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Sky Cricket
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Sky sports Cricket
+http://xtv.ooo:8080/live/Adeel994/426154/167594.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nYO69bl.png",ONE Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sGadsKB.png",TSN 1
