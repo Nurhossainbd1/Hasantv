@@ -531,6 +531,8 @@ https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 https://247c.mrgamingstreams.com/mrgamingfs1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
 http://supersonictv.live:8080/419094/970686/86873
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
+http://xtv.ooo:8080/live/Adeel994/426154/167592.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier League 1
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/rFpPQoj.png",Sports 18
