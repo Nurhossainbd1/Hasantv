@@ -799,6 +799,10 @@ http://xtv.ooo:8080/series/Adeel994/426154/304323.mkv
 #EXTINF:-1 group-title="WEB SERIES (Tribes of Europa - 2021)"tvg-logo="https://i.imgur.com/vRlI4sv.jpg",EPISODE 6
 http://xtv.ooo:8080/series/Adeel994/426154/304324.mkv
 
+#EXTINF:-1 group-title="WEB SERIES (Vikings: Valhalla 2022)"tvg-logo="https://i.imgur.com/t37iUd8.jpg",EPISODE 1
+http://xtv.ooo:8080/series/Adeel994/426154/234949.mkv
+#EXTINF:-1 group-title="WEB SERIES (Vikings: Valhalla 2022)"tvg-logo="https://i.imgur.com/t37iUd8.jpg",EPISODE 2
+http://xtv.ooo:8080/series/Adeel994/426154/234950.mkv
 
 #EXTINF:-1 group-title="WEB SERIES (Friends -1994)" tvg-logo="https://i.imgur.com/nOdqEfB.jpg",EPISODE 1
 http://xtv.ooo:8080/series/Adeel994/426154/307676.mkv
