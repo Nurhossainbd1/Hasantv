@@ -505,8 +505,10 @@ https://cdn.retosprime.com/ayna.php?id=115&e=.m3u8
 https://cdn.retosprime.com/ayna.php?id=116&e=.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/aeIkzpY.png",TSN 3
 https://cdn.retosprime.com/ayna.php?id=117&e=.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",TNT 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
 http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/102234
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
+http://xtv.ooo:8080/live/Adeel994/426154/346374.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/od4AN28.jpg",SSC 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 
