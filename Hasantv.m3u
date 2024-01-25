@@ -568,7 +568,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-http://tv.cloudcdn.me/live/00:1A:79:04:ED:80/SN_1697176355/36128.m3u8
+https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 http://195.26.87.217/live.ts?channelId=102481&uid=7435&deviceMac=00:1A:79:51:4B:3A
