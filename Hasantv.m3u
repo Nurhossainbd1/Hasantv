@@ -637,7 +637,7 @@ http://xtv.ooo:8080/live/Adeel994/426154/167577.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
 http://xtv.ooo:8080/live/Adeel994/426154/109993.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
-https://cdn.retosprime.com/ayna.php?id=49&e=.m3u8
+http://xtv.ooo:8080/live/Adeel994/426154/109994.ts
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
