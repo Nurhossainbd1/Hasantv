@@ -655,7 +655,7 @@ http://xtv.ooo:8080/live/Adeel994/426154/109994.ts
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic 
-http://103.132.181.118:82/play/a006
+http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155772&extension=ts&play_token=otM0DQF4Ff
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="DOCUMENTARY",  CGTN DOCUMENTARY
