@@ -230,7 +230,7 @@ https://cdn.retosprime.com/ayna.php?id=175&e=.m3u8
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.imgur.com/7A5PG3o.jpg",Mon Tv Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jETKTRb.jpg",Boogle Bollywood 
-http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
@@ -273,6 +273,8 @@ https://cdn.retosprime.com/ayna.php?id=89&e=.m3u8
 https://cdn.retosprime.com/ayna.php?id=74&e=.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Entertainment Tv
 http://103.120.172.74:1110/
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Tv
+https://cdn.retosprime.com/ayna.php?id=81&e=.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
