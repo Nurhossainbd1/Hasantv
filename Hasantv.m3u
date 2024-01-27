@@ -571,8 +571,10 @@ https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
 http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",Football 2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",PS 1
-
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 1
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=120
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 2
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=121
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
 http://supersonictv.live:8080/419094/970686/86873
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
