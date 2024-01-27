@@ -273,6 +273,8 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist_192k.m3u8
 https://cdn.retosprime.com/ayna.php?id=80&e=.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
 https://cdn.retosprime.com/ayna.php?id=77&e=.m3u8
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
+https://ayna-playlist.saqlainhaider.workers.dev/wanda.m3u8?id=78
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/163523
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD 
