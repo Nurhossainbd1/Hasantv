@@ -352,6 +352,8 @@ http://148.113.5.31:8106/play/a018/index.m3u8
 http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/uNWHQxu.png",MN+
 http://103.132.181.118:82/play/a00t
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/Qyj4wsO.png",Rock Action
+http://xtv.ooo:8080/live/Adeel994/426154/351025.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg",Star Plues Hd
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",MOVIE SPHERE
