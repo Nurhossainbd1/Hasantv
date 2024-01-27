@@ -366,6 +366,8 @@ http://xtv.ooo:8080/live/Adeel994/426154/351025.ts
 https://cdn.retosprime.com/ayna.php?id=111&e=.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/0RmvxOZ.png",Best Action 
 https://cdn.retosprime.com/ayna.php?id=221&e=.m3u8
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/JU1wlwE.png",CINEMAX
+http://64.31.40.14:14031/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/RVCShL2Y/He7ebQT.jpg",Star Plues Hd
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",MOVIE SPHERE
