@@ -635,8 +635,10 @@ http://45.179.140.242:8000/play/a0je
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
 http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/4859.ts
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/CtD4WaZ.png",Eleven Sports 1
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CtD4WaZ.png",Eleven Sports 1
 http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/128889.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Eleven Sports 2
+http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/128890.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/InMnCM5.png",Premier League 
 http://supersonictv.live:8080/419094/970686/86880
