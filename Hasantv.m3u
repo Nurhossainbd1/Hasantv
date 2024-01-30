@@ -690,7 +690,7 @@ http://xtv.ooo:8080/live/Adeel994/426154/167577.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
 https://cdn.retosprime.com/ayna.php?id=48&e=.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
-http://176.119.29.52/live.ts?channelId=300&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://opplex.tv:8080/live/Ahsanwt994/4880668/167579.ts
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
