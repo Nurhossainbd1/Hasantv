@@ -684,7 +684,7 @@ https://edge1.laotv.la/live/Bsport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
 http://xtv.ooo:8080/live/Adeel994/426154/109986.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/98865.ts
+http://103.2.153.38/trans1sd/smil:starsports2.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://xtv.ooo:8080/live/Adeel994/426154/167577.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
