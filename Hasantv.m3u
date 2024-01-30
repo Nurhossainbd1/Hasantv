@@ -47,7 +47,7 @@ http://sansat.net:25461/HhPRf2nAlsVeRU9/AnzgPldGC8OHsyY/100668
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/rtv-sg.stream/chunks.m3u8
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/rAsP1Xw.jpg",R Tv Music
-https://mhdtv.co.in/jio/stream.php?chunks=234ea1aa7d9aa9f9c0594e4960bdcb8353d7a4e8a4ddefcd9cf7382a3f51b97131e3bb90d4dd47f8e1a43e7a5dc36eab78c0e0e9b80cc7bf9282998b9b2adfd91ceb65f78c7d3b349a68f0d5542b700b3e8eae59cd1c138229167ac886f261eb1009fc6224bb1af8a4d2402ff3fcab4955ba4126f255bcc6f92b2f5da0d9983122450179dcd83ffb5c770f84a6ab83afe3cecb803e240b1fe77b7cdd5af70029&itoken=
+
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/R27NGmQ/Ntv1664826430.jpg",Ntv
 https://cdn.retosprime.com/ayna.php?id=8&e=.m3u8
@@ -250,7 +250,7 @@ https://cdn.retosprime.com/ayna.php?id=175&e=.m3u8
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.imgur.com/7A5PG3o.jpg",Mon Tv Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jETKTRb.jpg",Boogle Bollywood 
-https://yuppirecloriginvt.akamaized.net/270723/smil:bogglebolly.smil/chunklist_b2628000.m3u8?hdntl=exp=1706739215~acl=!*/270723/smil:bogglebolly.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=hdntl~hmac=9f0e1f1a302bedd3970af1ee1984a9fbe2343d59290156e4f9ccddd482224c98&hdnts=st=1706652815~exp=1706656415~acl=!*/270723/smil:bogglebolly.smil/*!yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~data=yuppTVCom_5_23093072_211ad4735dd6495d_US_45.61.146.183~hmac=edd8409a1f04c7f435fee58a0eb15f2eeb7277e644f26fe2ac4173614a3e9ba9&ads.app_bundle=&ads.app_store_url=&ads.content_livestream=1&ads.language=PUN&ads.content_genre=ENT&ads.channel=3794&ads.channel_name=BoogleBollywood&ads.network_name=yupptv&ads.user=1
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold HD
