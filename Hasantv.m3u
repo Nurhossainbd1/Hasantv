@@ -732,7 +732,7 @@ http://195.26.87.217/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/nQRAjih.jpg",Green Entertainment 
 http://195.26.87.217/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/RnWZ864.png",KBS World 
-https://wms4-kortv.akamaized.net/a_live/63719963/smil:20ch011.smil/playlist.m3u8
+http://xtv.ooo:8080/live/Adeel994/426154/353999.ts
 
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/22141bbd-fe65-49fe-891c-a34ec424b13a_180x180_tlc_hd_source.jpg",TLC HD
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
