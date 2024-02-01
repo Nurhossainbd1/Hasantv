@@ -121,7 +121,7 @@ http://cdn01.palki.tv/live/AnandaTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/kMkJDdz/moviebanglatv-logo.png",Movie Bangla
 http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESHI", DURONTO TV
-https://cdn.retosprime.com/ayna.php?id=36&e=.m3u8
+https://ssportstoday24.000webhostapp.com/world.php?id=36
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png",CHANNEL S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png",NRB HD Tv
@@ -170,7 +170,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/D05r7zsM/e5Ldh7e.png",Zee Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeebangla/default/zeebangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
-https://cdn.retosprime.com/ayna.php?id=94&e=.m3u8
+https://ssportstoday24.000webhostapp.com/world.php?id=94
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png",Star Jolsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png"group-title="KOLKATA",Star Jalsha HD
@@ -178,7 +178,7 @@ http://xtv.ooo:8080/live/Adeel994/426154/245898.ts
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
 https://bongohub.pw/bioscope.php?cc=colors-bangla
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png",Colors Bangla HD
-https://cdn.retosprime.com/ayna.php?id=105&e=.m3u8
+https://ssportstoday24.000webhostapp.com/world.php?id=105
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://bongohub.pw/bioscope.php?cc=colors-bangla-cinema
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png",Sun Bangla 
