@@ -751,3 +751,10 @@ http://as2.digitalsynapsebd.com:9236/;stream.mp3
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/NSzeePe.png",Redio Today
 http://stream-146.zeno.fm/8wv4d8g4344tv?zs=5nbJOZRZRWmPuZUQTOcZAg
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/oWpQCYD.png",Redio Ekattor
+http://192.144.82.200:9302/;stream/1;;
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/sUtIV0g.png",Redio Sarabela
+http://103.4.145.50:8000/stream/1/
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Redio Padma
+http://cassini.shoutca.st:9109/radiopadma.mp3
+
