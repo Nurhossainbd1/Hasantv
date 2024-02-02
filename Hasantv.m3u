@@ -16,15 +16,15 @@ http://cdn01.palki.tv/live/MadaniBangla-M/index.m3u8
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.imgur.com/M0K68o5.png",Islam Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/islamtv.stream/live-orgin/islamtv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV National 
-https://ssportstoday24.000webhostapp.com/world.php?id=1
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=1&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
-https://ssportstoday24.000webhostapp.com/world.php?id=2
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=2&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
-https://ssportstoday24.000webhostapp.com/world.php?id=4
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=4&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
-https://ssportstoday24.000webhostapp.com/world.php?id=3
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=3&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
-https://ssportstoday24.000webhostapp.com/world.php?id=5
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=5&e=.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/boishakhitv-org.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Channel%20I.png",Channel I
