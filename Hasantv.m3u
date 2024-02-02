@@ -212,7 +212,7 @@ https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca14134537
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png"group-title="KOLKATA",SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TVX54be.jpg",Eten TV
-https://iptvbd.live/test/1080.m3u8
+
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",Desi Channel
 http://live.wmncdn.net/desichannel/7e2dd0aed46b70a5c77f4affdb702e4b.sdp/playlist.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/AujiJIX.png",8xm HD
@@ -248,7 +248,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zoom/default/zoom.m3u8
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.postimg.cc/dVw9GC6m/download-2.jpg",Zing
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zing/default/index.m3u8
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.imgur.com/sAygLG0.jpg",E 24
-https://ssportstoday24.000webhostapp.com/world.php?id=175
+
 #EXTINF:-1group-title="MUSIC" tvg-logo="https://i.imgur.com/7A5PG3o.jpg",Mon Tv Bangla 
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/jETKTRb.jpg",Boogle Bollywood 
