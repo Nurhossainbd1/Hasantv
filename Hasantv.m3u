@@ -223,8 +223,10 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9XM/default/9XM-audio_208482_und=208000-video=1087600.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/u6xCqD3.jpg",9x Jawla
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjalwa/default/9XJalwa-audio_208482_und=208000-video=1087600.m3u8
-#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bBJfFIN.png",MTV HD
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bBJfFIN.png",MTV
 https://bongohub.pw/bioscope.php?cc=mtv
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/bBJfFIN.png",MTV HD
+http://195.26.87.217/live.ts?channelId=174&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/hzuKMVe.jpg",MTV Beats
 http://xtv.ooo:8080/live/Adeel994/426154/66273.ts
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/hzuKMVe.jpg",MTV Beats HD
@@ -238,7 +240,7 @@ http://146.59.253.52:8080/hindihitshd/index.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/Jm4S4JN.jpg",Colosal TV
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/colosal.stream/chunks.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/a80ad7a8-7541-408b-855c-54003a670c3c_180x180_B4UHitz.jpg",B4U Hits
-https://ssportstoday24.000webhostapp.com/world.php?id=188
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=188&e=.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/tb6nX5k/Picsart-23-06-28-01-36-22-182.png",SHOW BOX
 https://epiconvh.s.llnwi.net/showbox/master.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/d27MgzR/Picsart-23-06-25-22-12-18-382.png" group-title="MUSIC", JOO MUSIC
