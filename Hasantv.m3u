@@ -296,9 +296,9 @@ https://s.id/21kyo
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/4X1Sw66.jpg",Sony Max 2
 https://ssportstoday24.000webhostapp.com/world.php?id=82
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix
-https://ssportstoday24.000webhostapp.com/world.php?id=89
+https://s.id/21kCB
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix HD
-https://ssportstoday24.000webhostapp.com/world.php?id=74
+https://s.id/21kCN
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Entertainment Tv
 http://103.120.172.74:1110/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Tv
@@ -373,7 +373,7 @@ http://103.132.181.118:82/play/a00t
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/Qyj4wsO.png",Rock Action
 http://xtv.ooo:8080/live/Adeel994/426154/351025.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/tUI0Upe.png",BBC America 
-https://ssportstoday24.000webhostapp.com/world.php?id=111
+https://bcovlive-a.akamaihd.net/cde8d9416f6d4f1da0a4e8cfde6e8b2c/us-east-1/6240731308001/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/0RmvxOZ.png",Best Action 
 https://ssportstoday24.000webhostapp.com/world.php?id=221
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/JU1wlwE.png",CINEMAX
@@ -723,7 +723,7 @@ http://148.113.5.31:8106/play/a01o/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="DOCUMENTARY", FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg",History Channel 
-http://38.96.178.201/live/History/index.m3u8
+https://s.id/21kRc
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
