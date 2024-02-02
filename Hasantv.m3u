@@ -200,7 +200,7 @@ https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/d1vGpCS.jpg",Tara Bangla Cinema 
 http://103.145.48.150:90/laosat23/taratv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/311da839-6234-4d72-b363-090c39bdbc67_180x180_RupshiBangla.jpg",Rupshi Bangla 
-https://ssportstoday24.000webhostapp.com/world.php?id=144
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=144&e=.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/4JKq09m/Picsart-23-06-07-11-49-33-298.png",Sangeet Bangla
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Sangeetbangla/default/sangeetbangla-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/fcf291bf-4f31-4e60-bd97-3973f71eb5c9_180x180_dhoom_Music_bangla.jpg",Dhoom Music 
@@ -391,15 +391,15 @@ https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
 http://idvd.multitvsolution.com/idvo/bflixmovies.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK
-https://cdn.retosprime.com/ayna.php?id=153&e=.m3u8|User-Agent=bdsajib
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=153&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
-https://ssportstoday24.000webhostapp.com/world.php?id=154
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=154&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
-https://ssportstoday24.000webhostapp.com/world.php?id=156
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=156&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
-https://ssportstoday24.000webhostapp.com/world.php?id=155
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=155&e=.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
-https://ssportstoday24.000webhostapp.com/world.php?id=191
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=191&e=.m3u8
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
