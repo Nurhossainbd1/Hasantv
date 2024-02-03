@@ -586,13 +586,15 @@ https://s.id/21nmp
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/u902a6A.jpg",SSC 3
 https://s.id/21nmx
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/29f6oTr.png",SSC 4
-http://xtv.ooo:8080/live/Adeel994/426154/353564.ts
+https://ssportstoday24.000webhostapp.com/chd3.php?id=1433959
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I4UivSR.jpg",SSC 5
-http://opplex.tv:8080/live/Ahsanwt994/4880668/353565.ts
+https://ssportstoday24.000webhostapp.com/chd3.php?id=1433958
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/JhIzXf9.jpg",SSC EXTRA 1
-http://xtv.ooo:8080/live/Adeel994/426154/353566.ts
+https://ssportstoday24.000webhostapp.com/chd3.php?id=1433957
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tSc0rpw.jpg",SSC EXTRA 2
-http://xtv.ooo:8080/live/Adeel994/426154/353567.ts
+https://ssportstoday24.000webhostapp.com/chd3.php?id=1433956
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tSc0rpw.jpg",SSC EXTRA 3
+https://ssportstoday24.000webhostapp.com/chd3.php?id=1433955
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/i2CmUmf.png",W Sports
 http://210.210.155.35/session/605fd6de-b7e2-11ee-a7eb-94028ea90780/uq2663/h/h26/S4/mnf.m3u8
 
