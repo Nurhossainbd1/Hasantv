@@ -698,9 +698,9 @@ https://ssportstoday24.000webhostapp.com/world.php?id=43
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://xtv.ooo:8080/live/Adeel994/426154/167577.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
-https://ssportstoday24.000webhostapp.com/world.php?id=48
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=48&e=.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
-http://opplex.tv:8080/live/Ahsanwt994/4880668/167579.ts
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=49&e=.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
@@ -713,7 +713,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
-https://cdn.retosprime.com/ayna.php?id=72&e=.m3u8
+https://tv.durbinlive.com/api/ayna/stream.m3u8?id=72&e=.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
