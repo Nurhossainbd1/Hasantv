@@ -676,7 +676,7 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-
+http://195.26.87.217/live.ts?channelId=36128&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/FNP4KOL.png",Fox Sports 2
 https://ssportstoday24.000webhostapp.com/chd3.php?id=646970
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/S07QFf2.png",Abu Dhabi Sport 1
