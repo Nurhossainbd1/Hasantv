@@ -682,27 +682,29 @@ https://ssportstoday24.000webhostapp.com/chd3.php?id=646970
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/qTohtSI.jpg",MAQ Cricket
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports HD
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=108&e=.m3u8
+
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 http://195.26.87.217/live.ts?channelId=102481&uid=7435&deviceMac=00:1A:79:51:4B:3A
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bein Sports 2
-https://edge1.laotv.la/live/Bsport2/sc-gaFECQ/v0_index.m3u8
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports 3
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports 4
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/SFR8SFC.jpg",beIN Sports 5
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q25OggC.jpg",beIN Sports 6
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports France 1
-https://edge2.laotv.la/live/Bsport1/index.m3u8
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",beIN Sports France 2
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports France 3
-https://edge1.laotv.la/live/Bsport2/index.m3u8
+http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports True 1
+https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
 https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=star1in
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
