@@ -702,7 +702,7 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=1114581
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=155976&extension=ts&play_token=fqC4dzZ4Mr
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=48&e=.m3u8
+https://ssportstoday24.000webhostapp.com/chd2.php?id=1114583
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
 https://ssportstoday24.000webhostapp.com/chd2.php?id=1114584
 
