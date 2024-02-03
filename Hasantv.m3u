@@ -479,12 +479,16 @@ https://ssportstoday24.000webhostapp.com/world.php?id=79
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
+https://webudit.webhd.ru/lb/premium741/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",SL VS AFG LIVE SERVER 1
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server 1
-https://hls.streambtw.com/live/stream_e1.m3u8
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w492822809.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ATFDlOr.jpg",U19 Live Server 2
-https://sports.yunyingtiandi.com/live/m32977025/playlist.m3u8
+https://donelfantastic.github.io/live/skysportsNz5.m3u8
+#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ATFDlOr.jpg",U19 Live Server 3
+http://ddh2.nnotoplay.click/premium65/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AgrniiK.jpg",Inter Miami Vs Al hilal
 http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/6419.ts
 
