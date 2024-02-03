@@ -707,6 +707,8 @@ http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6622.m3u8
 http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6624.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports True 1
 https://edge2.laotv.la/live/Bsport1/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lDZ4rZA.png",Eurosport 
+http://mag.trexlive.me/Michael88/Michael88/156027
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
 https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=star1in
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
