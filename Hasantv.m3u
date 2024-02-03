@@ -641,7 +641,7 @@ http://supersonictv.live:8080/419094/970686/86866
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
 https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=ptvpk
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Astro Tv
-http://176.119.29.52/live?channelId=26034&deviceMac=00:1A:79:33:E9:41
+https://ssportstoday24.000webhostapp.com/chd.php?id=1373119
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sport 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sports 3
@@ -674,13 +674,13 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-https://webudit.webhd.ru/lb/premium823/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/FNP4KOL.png",Fox Sports 2
-http://xtv.ooo:8080/live/Adeel994/426154/348211.ts
+https://ssportstoday24.000webhostapp.com/chd3.php?id=646970
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/S07QFf2.png",Abu Dhabi Sport 1
-http://xtv.ooo:8080/live/Adeel994/426154/354997.ts
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/qTohtSI.jpg",MAQ Cricket
-http://xtv.ooo:8080/live/Adeel994/426154/207190.ts
+http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports HD
 https://tv.durbinlive.com/api/ayna/stream.m3u8?id=108&e=.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
