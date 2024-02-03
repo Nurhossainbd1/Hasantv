@@ -290,13 +290,13 @@ http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
 https://s.id/21kyJ
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=78&e=.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/j_KsLm1YpZe_NQdxx-CScA/1707000395/live-sony-wah-sd.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
 http://line.rs6ott.com:80/739c55b5c4c1/5953764852df/163523
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD 
 https://s.id/21kyo
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/4X1Sw66.jpg",Sony Max 2
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=82&e=.m3u8
+http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix
 https://s.id/21kCB
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix HD
@@ -306,7 +306,7 @@ http://103.120.172.74:1110/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Tv
 https://s.id/21kyb
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
-https://tv.durbinlive.com/api/ayna/stream.m3u8?id=87&e=.m3u8
+http://195.26.87.217/live.ts?channelId=188&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
 http://170.254.18.107/COLORS/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
