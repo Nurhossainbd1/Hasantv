@@ -645,7 +645,7 @@ http://supersonictv.live:8080/419094/970686/86866
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
 https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=ptvpk
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Astro Tv
-https://ssportstoday24.000webhostapp.com/chd.php?id=1373119
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=689570&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sport 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sports 3
@@ -718,9 +718,9 @@ http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=1114581
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=155976&extension=ts&play_token=fqC4dzZ4Mr
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
-https://ssportstoday24.000webhostapp.com/chd2.php?id=1114583
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=281635&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
-https://ssportstoday24.000webhostapp.com/chd2.php?id=1114584
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=281636&extension=ts
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
