@@ -578,13 +578,15 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZKo9kHP.png",TSN 3
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
-https://ssportstoday24.000webhostapp.com/chd.php?id=1047260
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=578001&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
-https://ssportstoday24.000webhostapp.com/chd.php?id=1047261
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=578000&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 3
-https://ssportstoday24.000webhostapp.com/chd.php?id=1047262
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=577999&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 4
-https://ssportstoday24.000webhostapp.com/chd.php?id=1002857
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=782732&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 5
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gvxIi6B.jpg",SSC NEWS
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/123087.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/od4AN28.jpg",SSC 1
