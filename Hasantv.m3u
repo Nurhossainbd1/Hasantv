@@ -751,7 +751,7 @@ https://s.id/21kRc
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
-http://iptvtree.net:8080/haglich/af2376b2/298594
+http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=577219&extension=ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/M5lptE4.png",Al Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/j8nqQXR.jpg",Ary Zindagi
