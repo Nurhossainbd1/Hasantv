@@ -621,13 +621,13 @@ http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUl
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",Football 2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 1
-
+http://ott1.co:8080/live/22552255/22552255/54.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 2
-
+http://ott1.co:8080/live/22552255/22552255/55.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
 http://supersonictv.live:8080/419094/970686/86873
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
-https://ssportstoday24.000webhostapp.com/chd.php?id=239087
+http://ott1.co:8080/live/22552255/22552255/2496.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 2
@@ -649,9 +649,9 @@ http://supersonictv.live:8080/419094/970686/86865
 http://supersonictv.live:8080/419094/970686/86866
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
-https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=ptvpk
+http://ott1.co:8080/live/22552255/22552255/61674.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Astro Tv
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=689570&extension=ts
+https://freeiptv25.netlify.app/live/bdix/app/ASPCRI.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sport 2
 https://dmitwlvvll.cdn.mangomolo.com/dubaisportshd/smil:dubaisportshd.smil/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HoL7QWy.png",Dubai Sports 3
@@ -671,11 +671,13 @@ http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4[2].png" group-title="SPORTS", ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
-http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/4859.ts
+http://ott1.co:8080/live/22552255/22552255/210358.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CtD4WaZ.png",Eleven Sports 1
-http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/128889.ts
+http://ott1.co:8080/live/22552255/22552255/210158.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Eleven Sports 2
-http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/128890.ts
+http://ott1.co:8080/live/22552255/22552255/210164.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Apple Tv
+http://ott1.co:8080/live/22552255/22552255/242869.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/InMnCM5.png",Premier League 
 http://supersonictv.live:8080/419094/970686/86880
