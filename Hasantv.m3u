@@ -529,7 +529,7 @@ https://newedge.eu-central-1.edge.mycdn.live/live/vintequatrohrs2/playlist.m3u8
 https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/btKWGFc.png",LaLiga
-http://mytv-extra.com/t12mgxyb335/9832948789/159894
+http://ott1.co:8080/live/22552255/22552255/515.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ciWkUY0.jpg",Supar Sports Premiere League 
 http://supersonictv.live:8080/419094/970686/86880
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tjNqdEe.png",DD Sports
