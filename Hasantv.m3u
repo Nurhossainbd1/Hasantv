@@ -576,9 +576,9 @@ http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sGadsKB.png",TSN 1
 http://ott1.co:8080/live/22552255/22552255/1565.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/GqApkJK.png",TSN 2
-
+http://ott1.co:8080/live/22552255/22552255/1566.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZKo9kHP.png",TSN 3
-
+http://ott1.co:8080/live/22552255/22552255/1567.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
 http://ott1.co:8080/live/22552255/22552255/186627.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
@@ -596,17 +596,17 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Y9bH41d.jpg",SSC 2
 https://s.id/21nmp
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/u902a6A.jpg",SSC 3
-https://s.id/21nmx
+http://ott1.co:8080/live/22552255/22552255/36253.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/29f6oTr.png",SSC 4
-https://ssportstoday24.000webhostapp.com/chd3.php?id=1433959
+http://ott1.co:8080/live/22552255/22552255/36254.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I4UivSR.jpg",SSC 5
-https://ssportstoday24.000webhostapp.com/chd3.php?id=1433958
+http://ott1.co:8080/live/22552255/22552255/123097.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/JhIzXf9.jpg",SSC EXTRA 1
-https://ssportstoday24.000webhostapp.com/chd3.php?id=1433957
+http://ott1.co:8080/live/22552255/22552255/123099.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tSc0rpw.jpg",SSC EXTRA 2
-https://ssportstoday24.000webhostapp.com/chd3.php?id=1433956
+http://ott1.co:8080/live/22552255/22552255/123101.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tSc0rpw.jpg",SSC EXTRA 3
-https://ssportstoday24.000webhostapp.com/chd3.php?id=1433955
+http://ott1.co:8080/live/22552255/22552255/123103.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/i2CmUmf.png",W Sports
 http://210.210.155.35/session/605fd6de-b7e2-11ee-a7eb-94028ea90780/uq2663/h/h26/S4/mnf.m3u8
 
