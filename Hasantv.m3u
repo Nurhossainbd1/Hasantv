@@ -211,6 +211,8 @@ http://mag.trexlive.me/Michael88/Michael88/282065
 https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-563504/afbca502-56e1-42a8-b4c4-63ebbf0afb76/2.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co/Rb7jFpp/Shree-Bangla-logo-2018.png"group-title="KOLKATA",SHREE BANGLA
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg"group-title="KOLKATA",Sristi Tv
+https://sristi1.livebox.co.in/sristihls/live.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/TVX54be.jpg",Eten TV
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/smvUcUd.png",Desi Channel
