@@ -574,19 +574,19 @@ http://ott1.co:8080/live/22552255/22552255/23566.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nYO69bl.png",ONE Golf
 http://162.250.201.58:6211/pk/ONEGOLF/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/sGadsKB.png",TSN 1
-
+http://ott1.co:8080/live/22552255/22552255/1565.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/GqApkJK.png",TSN 2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZKo9kHP.png",TSN 3
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=578001&extension=ts
+http://ott1.co:8080/live/22552255/22552255/186627.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=578000&extension=ts
+http://ott1.co:8080/live/22552255/22552255/285.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 3
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=577999&extension=ts
+http://ott1.co:8080/live/22552255/22552255/283.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 4
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=782732&extension=ts
+http://ott1.co:8080/live/22552255/22552255/186630.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 5
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gvxIi6B.jpg",SSC NEWS
