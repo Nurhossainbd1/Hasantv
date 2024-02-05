@@ -676,7 +676,7 @@ http://ott1.co:8080/live/22552255/22552255/210358.ts
 http://ott1.co:8080/live/22552255/22552255/210158.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Eleven Sports 2
 http://ott1.co:8080/live/22552255/22552255/210164.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Apple Tv
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NhA7q41.jpg",Apple Tv
 http://ott1.co:8080/live/22552255/22552255/242869.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/InMnCM5.png",Premier League 
@@ -686,9 +686,9 @@ https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-http://195.26.87.217/live.ts?channelId=36128&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://ott1.co:8080/live/22552255/22552255/1856.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/FNP4KOL.png",Fox Sports 2
-https://ssportstoday24.000webhostapp.com/chd3.php?id=646970
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/S07QFf2.png",Abu Dhabi Sport 1
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/qTohtSI.jpg",MAQ Cricket
@@ -696,19 +696,19 @@ http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports HD
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
-http://195.26.87.217/live.ts?channelId=102481&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://ott1.co:8080/live/22552255/22552255/274162.ts
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Bein Sports 2
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61169.m3u8
+http://ott1.co:8080/live/22552255/22552255/274163.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",beIN Sports 3
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61170.m3u8
+http://ott1.co:8080/live/22552255/22552255/274164.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports 4
-http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/61171.m3u8
+http://ott1.co:8080/live/22552255/22552255/274165.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/SFR8SFC.jpg",beIN Sports 5
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61172.m3u8
+http://ott1.co:8080/live/22552255/22552255/274166.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q25OggC.jpg",beIN Sports 6
-http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/61173.m3u8
+http://ott1.co:8080/live/22552255/22552255/274167.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NAsylzo.jpg",beIN Sports France 1
 http://carmeltv.live/EXCHANGEukmed/QHZ5pjF7UdKx/6620.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/9fd5Oq8.png",beIN Sports France 2
