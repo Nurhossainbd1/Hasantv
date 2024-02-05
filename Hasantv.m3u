@@ -718,9 +718,9 @@ https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lDZ4rZA.png",Eurosport 
 http://mag.trexlive.me/Michael88/Michael88/156027
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
-https://lamsom.co.uk/crichd/crichd.php?e=.m3u8&id=star1in
+http://103.109.56.116/live/skyfeed1002/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
-http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=1114581&extension=ts&play_token=es4SvuAPRa
+http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=155976&extension=ts&play_token=fqC4dzZ4Mr
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
