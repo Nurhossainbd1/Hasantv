@@ -304,7 +304,7 @@ http://208.86.19.13:81/7300.stream/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix
 https://s.id/21kCB
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix HD
-https://s.id/21kCN
+https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1116481&extension=.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Entertainment Tv
 http://103.120.172.74:1110/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Tv
@@ -369,7 +369,7 @@ http://195.26.87.217/live.ts?channelId=49858&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/bGASr7e.png",HBO Family 
 https://s.id/21nkW
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/nXxPliC.png",HBO Signature 
-https://s.id/21nkK
+http://ott1.co:8080/live/22552255/22552255/1027.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/kmyHso0.png",HBO Hits
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/ALV5d53.png",Movies Now
@@ -755,11 +755,11 @@ https://travelxp-travelxp-3-nl.samsung.wurl.tv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="FOOD FOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1f/Food_Food.png" group-title="DOCUMENTARY", FOOD FOOD
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/foodfood/master.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/57d5f485-7397-46f0-848f-a164af72659d_180x180_historychannel.jpeg",History Channel 
-https://s.id/21kRc
+http://stalker.ugoiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=281959&extension=.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=577219&extension=ts
+http://195.26.87.217/live.ts?channelId=50&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/M5lptE4.png",Al Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/j8nqQXR.jpg",Ary Zindagi
