@@ -726,9 +726,9 @@ http://103.109.56.116/live/skyfeed1003/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=155976&extension=ts&play_token=fqC4dzZ4Mr
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=281635&extension=ts
+https://freeiptv25.netlify.app/live/bdix/app/StarSelect1.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=281636&extension=ts
+https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
