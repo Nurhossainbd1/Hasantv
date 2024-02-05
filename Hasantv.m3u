@@ -308,13 +308,13 @@ https://s.id/21kCN
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Entertainment Tv
 http://103.120.172.74:1110/
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/nP7vORq.jpg",Sony Tv
-https://s.id/21kyb
+http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156101&extension=.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
 https://edge4.bioscopelive.com/hls/anonymous/sLn4horLceTkg7iNOecOqQ/1707087099/live3-colors.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
-http://sidflix.com/play/live.php?mac=00:1a:79:b8:68:a8&stream=281280&extension=ts
+http://ott1.co:8080/live/22552255/22552255/9370.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/MyfKDWw.png",Colors Cineplex
@@ -326,9 +326,9 @@ http://195.26.87.217/live.ts?channelId=62413&uid=7435&deviceMac=00:1A:79:51:4B:3
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinema/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/rsjnFPmy/sjM1MbFR.png",Zee Cinema HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeecinemahd/default/zeecinemahd-audio_208482_und=208000-video=2137600.m3u8
+http://195.26.87.217/live.ts?channelId=12359&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/CLDbmYcD/KY6i6Adw.png",Zee Tv HD
-https://s.id/21kzQ
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeanmol/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/q7rP4LNF/Zee-Anmol.png",Zee Anmol Cinema
