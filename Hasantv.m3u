@@ -782,7 +782,7 @@ https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
 
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/AfY8NAf.jpg",Bangladesh Betar 
-http://as2.digitalsynapsebd.com:9236/;stream.mp3
+http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/16uHVGr.png",Redio Shadin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/NSzeePe.png",Redio Today
