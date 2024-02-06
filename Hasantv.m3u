@@ -302,7 +302,7 @@ http://mag.trexlive.me/Michael88/Michael88/163523
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD 
 http://mag.trexlive.me/Michael88/Michael88/156013
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/4X1Sw66.jpg",Sony Max 2
-http://208.86.19.13:81/7300.stream/index.m3u8
+https://cdn-tv.co.in/myweb/watch.php?id=1000044878&e=.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix
 https://s.id/21kCB
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix HD
@@ -314,7 +314,7 @@ http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=156101&extension=.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
-https://edge4.bioscopelive.com/hls/anonymous/sLn4horLceTkg7iNOecOqQ/1707087099/live3-colors.m3u8
+http://mitvpro.online:88/02025685921199/8999991992/100811
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
 http://ott1.co:8080/live/22552255/22552255/9370.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
@@ -361,7 +361,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/QQX9A0m.png",Star Bharat HD
-http://195.26.87.217/live.ts?channelId=195&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://mag.trexlive.me/Michael88/Michael88/156173
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies Select 
