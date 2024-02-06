@@ -54,9 +54,9 @@ http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png",Ekushey Tv
-http://195.26.87.217/live.ts?channelId=96&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://210.4.72.204/hls-live/livepkgr/_definst_/liveevent/livestream3.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
-http://176.119.29.52/live.ts?channelId=106&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy Tv
@@ -123,7 +123,7 @@ http://alvetv.com/moviebanglatv/8080/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/dDEw284.png",M Movies
 https://s.id/21ktx
 #EXTINF:-1 tvg-id="" tvg-name="DURONTO TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/d/d7/Duronto_TV_Logo.png" group-title="BANGLADESHI", DURONTO TV
-https://s.id/21ksg
+https://bongohub.pw/bioscope.php?cc=Duranto%20tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/Wcjz549/Channel-S-Logo-SVG.png",CHANNEL S
 https://livess.jagobd.com.bd/live-orgin/chsukoff.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/1Xgkh56k/download-3.png",NRB HD Tv
