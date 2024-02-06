@@ -488,7 +488,7 @@ http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 3
-https://dai.fancode.com/primary/90963_english_hls_4615ta-no/index.m3u8
+https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/TG2TrrHhfNGQM17pw2jf20drEEVf5aIsz0YS_I9MNDdNxG_2ZPORX2AIyTY55zuojhZaGrrw1qwkDoGqBYgg3Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",SL VS AFG LIVE SERVER 1
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server 1
