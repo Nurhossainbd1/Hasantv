@@ -483,14 +483,14 @@ https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/chunklist.m3u8
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="SPORTS", Sony Ten 3
-https://s.id/21kL9
+http://ott1.co:8080/live/22552255/22552255/146.ts
 
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 1
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 3
-https://prod-ec-us-east-1.video.pscp.tv/Transcoding/v1/hls/TG2TrrHhfNGQM17pw2jf20drEEVf5aIsz0YS_I9MNDdNxG_2ZPORX2AIyTY55zuojhZaGrrw1qwkDoGqBYgg3Q/non_transcode/us-east-1/periscope-replay-direct-prod-us-east-1-public/tw_master_dynamic_highlatency.m3u8?type=live
+http://ott1.co:8080/live/22552255/22552255/146.ts
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",SL VS AFG LIVE SERVER 1
 https://dai.google.com/linear/hls/event/23bJc4DCSE2-dhd2cG1Jjw/master.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server 1
@@ -498,13 +498,13 @@ https://ssportstoday24.000webhostapp.com/chd2.php?id=282677
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ATFDlOr.jpg",U19 Live Server 2
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/ATFDlOr.jpg",U19 Live Server 3
-http://ddh2.nnotoplay.click/premium65/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://ott1.co:8080/live/22552255/22552255/146.ts
 #EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AgrniiK.jpg",Inter Miami Vs Al hilal
 http://vipconlt.top:8080/live/VIP0188170127468137/41701274681046/6419.ts
 
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/AHfSMSb.png",Sony Sports 4 HD
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/29469.ts
+http://ott1.co:8080/live/22552255/22552255/29469.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q1ULfns.png",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MclQoge.png",SonyLIV
@@ -512,7 +512,7 @@ https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/g2TtQqvn/image.jpg",WWE
 http://supersonictv.live:8080/419094/970686/86878
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/PSrgydV.jpg",Willow HD
-https://sportsleading.online/live/stream_e1.m3u8
+http://ott1.co:8080/live/22552255/22552255/215.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/PSrgydV.jpg",WILLOW CRICKET XTRA
 https://webudit.webhd.ru/lb/premium598/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/TjgTOg0.png",A Sports 
@@ -637,7 +637,7 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Sport 2
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/rFpPQoj.png",Sports 18
-https://s.id/21kM5
+http://ott1.co:8080/live/22552255/22552255/213049.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/X1pVgWJ.png",Mu Tv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Super Motor Sports 
