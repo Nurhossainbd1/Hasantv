@@ -375,7 +375,7 @@ http://ott1.co:8080/live/22552255/22552255/1027.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/kmyHso0.png",HBO Hits
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/152372.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/ALV5d53.png",Movies Now
-http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://mitvpro.online:88/02025685921199/8999991992/96282
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/uNWHQxu.png",MN+
 http://103.132.181.118:82/play/a00t
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/Qyj4wsO.png",Rock Action
@@ -773,7 +773,7 @@ http://stalker.ugoiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=281959&ext
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/L5JDZ88.png",BBC World News
 http://103.199.161.254/Content/bbcworld/Live/Channel(BBCworld)/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/b9b1fb7d-7434-44e1-b416-1dcd7025c76f_180x180_cnn.jpeg",CNN
-http://195.26.87.217/live.ts?channelId=50&uid=7435&deviceMac=00:1A:79:51:4B:3A
+https://cnn-cnninternational-1-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/M5lptE4.png",Al Jazeera 
 https://live-hls-web-aje.getaj.net/AJE/02.m3u8
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/j8nqQXR.jpg",Ary Zindagi
