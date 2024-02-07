@@ -792,15 +792,16 @@ http://195.26.87.217/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
 https://dplus.gammacdn.workers.dev/videos/97.m3u8
 
 
-
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/AfY8NAf.jpg",Quran 
+https://download.quranicaudio.com/qdc/abdurrahmaan_as_sudais/murattal/96.mp3
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/AfY8NAf.jpg",Bangladesh Betar 
 http://as3.digitalsynapsebd.com:8263/;stream.mp3
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/16uHVGr.png",Redio Shadin
 http://stream-157.zeno.fm/umq9q5uuva5tv?zs=RZTxFKUnRZeT5gVmKwDoCA
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/NSzeePe.png",Redio Today
-http://stream-146.zeno.fm/8wv4d8g4344tv?zs=5nbJOZRZRWmPuZUQTOcZAg
+http://stream-144.zeno.fm/8wv4d8g4344tv?zs=OM6q0RfuRDi1X6Tty62qhA
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/oWpQCYD.png",Redio Ekattor
-http://192.144.82.200:9302/;stream/1;;
+http://192.144.82.200:9302/;stream/1;
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/sUtIV0g.png",Redio Sarabela
 http://103.4.145.50:8000/stream/1/
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Redio Padma
