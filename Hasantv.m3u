@@ -379,7 +379,7 @@ http://195.26.87.217/live.ts?channelId=162&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/uNWHQxu.png",MN+
 http://103.132.181.118:82/play/a00t
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/Qyj4wsO.png",Rock Action
-
+http://210.210.155.35/dr9445/h/h15/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/G6xBGv8.jpg",Hungama 
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/bollywoodhungama_live_https/master.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/Qyj4wsO.png",Rock Entertainment
