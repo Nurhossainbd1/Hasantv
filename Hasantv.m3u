@@ -86,6 +86,7 @@ http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 https://bongohub.pw/bioscope.php?cc=sa-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/yq00Lvb/GTVBangladesh-Logo.png",Gtv
 http://103.109.56.116/live/skyfeed1006/index.m3u8
+http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://tsports.com/img/logo/tsports-1200x630px.png",T Sports
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 
@@ -156,6 +157,8 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://208.86.19.13:81/503.stream/index.m3u8?
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/V0R3PoR.png",Apon Tv
 http://mag.trexlive.me/Michael88/Michael88/225782
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/gTnzXlx.png",Me Tv
+https://iptvbd.live/metv1080/1080.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/tfPlgYv.jpg",Varendra Tv
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/varendratv.stream/live-orgin/varendratv.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/0QR8v4jC/NOBANNOtv-10-Copy-1024x402-1.png",Nobanno TV
