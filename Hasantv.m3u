@@ -825,13 +825,13 @@ http://192.144.82.200:9302/;stream/1;
 http://103.4.145.50:8000/stream/1/
 #EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Redio Padma
 http://cassini.shoutca.st:9109/radiopadma.mp3
-#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Sayaji FM
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/rmd6v7M.png",Sayaji FM
 https://sayajifm.radioca.st/stream/;?1707488287650
-#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Radio BongOnet
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/Ca6gh7i.png",Radio BongOnet
 https://stream.bongonet.net/proxy/radiobongonet?mp=/stream/1/
-#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Radio Retro Bollywood
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/d09PXR5.jpg",Radio Retro Bollywood
 https://stream-140.zeno.fm/g372rxef798uv?zs=zMsr18fRTH-5eFy8qKIW-g
-#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/gi3zr40.png",Radio Bolly FM
+#EXTINF:-1 group-title="FM REDIO" tvg-logo="https://i.imgur.com/UScHwWO.jpg",Radio Bolly FM
 https://stream-160.zeno.fm/zu59ykebs2zuv?zs=TJdihQC0Q8CabTsCGBWA4A
 
 
