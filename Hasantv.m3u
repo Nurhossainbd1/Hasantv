@@ -1,8 +1,8 @@
 #EXTM3U
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Hasan Tv 
 https://nayeem-parvez.pw/api-s1/iptv/tsports.m3u8?id=2
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Hasan Tv 2
-https://sports.yunyingtiandi.com/live/m33002828/playlist.m3u8?wsSession=976e479712ecf3261cdcfc31-170748668433305&wsIPSercert=ba45cb8c6b2e669ca0a32cde53f40478ipk=5&nbs=1&deadline=1707400527&gen=playurlv2&os=akam&oi=1735221709&trid=d7ac5e56ba624f7eb8a6bf79a158246di&mid=0&platform=html5&upsig=a218d13c30dba8d23ae486e39c888a6c&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1707400527~hmac=af6ee243a2d8a12d2c304ffc9753d0a7bb0f28ef9232447d4f23424a7c5039a8&bvc=vod&nettype=0&orderid=0,1&logo=00000000&f=i_0_0
+#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/GCFaFKi.jpg",Hasan Tv 2
+https://mwmpos03.akamaized.net/out/v1/0484a3feb7684efb9fc80ec56d66d005/manifest_video_4_0_697071.mp4?m=1694490828
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
