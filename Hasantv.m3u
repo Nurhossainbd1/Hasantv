@@ -91,7 +91,7 @@ http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 http://103.109.56.116/live/skyfeed1005/index.m3u8
 http://pgplex.net:8080/BPL2024/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-chno="" tvg-id="" tvg-logo="https://images.toffeelive.com/images/program/365/logo/240x240/mobile_logo_731536001673438371.png", Nagorik TV
-http://pgplex.net:8080/NagorikTV/tracks-v1/index.fmp4.m3u8?token=294df7c09c3722a633e03c89e7457a91fb1cead8-99b77549e5669bac208c894faff401da-1707655342-1707644542
+http://pgplex.net:8080/NagorikTV/tracks-v1/index.fmp4.m3u8?
 
 
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Deepto%20TV.jpeg",Dipto Tv
