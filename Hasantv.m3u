@@ -782,7 +782,7 @@ https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/g7I8nnR.png",National Geographic 
-http://tv.trexiptv.com/play/live.php?mac=00:1a:79:4b:66:ae&stream=155772&extension=ts&play_token=otM0DQF4Ff
+http://xtv.ooo:8080/6199216/619002/109977
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Z5mfj9ZS/Animal-Planet-HD.png",Animal Planet
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/2/24/CGTN_Documentary.svg" group-title="DOCUMENTARY",  CGTN DOCUMENTARY
@@ -790,7 +790,7 @@ https://livedoc.cgtn.com/1000d/prog_index.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.imgur.com/5lZ8dnC.png",Wild Earth
 https://wildearth-roku.amagi.tv/masterR720P.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/62bf69b2-7839-4177-a3a8-7002505913e9_180x180_SonyBBCEarth.jpg",BBC Earth HD
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=155885&extension=.ts
+http://xtv.ooo:8080/6199216/619002/206278
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/Hx1PS8kS/XBz4I65.png",Discovery Science
 https://dplus.gammacdn.workers.dev/videos/96.m3u8
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/ZqbG8DVf/download-4.jpg",Discovery Turbo
