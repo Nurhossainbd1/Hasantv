@@ -628,15 +628,16 @@ http://ott1.co:8080/live/22552255/22552255/1565.ts
 http://ott1.co:8080/live/22552255/22552255/1566.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ZKo9kHP.png",TSN 3
 http://ott1.co:8080/live/22552255/22552255/1567.ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:78:97:25&stream=1047263&extension=ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:78:97:25&stream=25595&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",TNT 1
-http://ott1.co:8080/live/22552255/22552255/186627.ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:78:97:25&stream=1047260&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 2
-http://ott1.co:8080/live/22552255/22552255/285.ts
+http://pal.alphatx.me/play/live.php?mac=00:1A:79:78:97:25&stream=1047261&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 3
 http://ott1.co:8080/live/22552255/22552255/283.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 4
-http://ott1.co:8080/live/22552255/22552255/186630.ts
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 5
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gvxIi6B.jpg",SSC NEWS
 http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/123087.ts
