@@ -809,6 +809,10 @@ http://195.26.87.217/live.ts?channelId=394&uid=7435&deviceMac=00:1A:79:51:4B:3A
 http://195.26.87.217/live.ts?channelId=74228&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/nQRAjih.jpg",Green Entertainment 
 http://195.26.87.217/live.ts?channelId=393&uid=7435&deviceMac=00:1A:79:51:4B:3A
+#EXTINF:-1 group-title="PAKISTANI" tvg-logo="https://i.imgur.com/Es9yIt0.png",Ary Digital 
+http://195.26.87.217/live.ts?channelId=382&uid=7435&deviceMac=00:1A:79:51:4B:3A
+
+
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/RnWZ864.png",KBS World 
 
 
