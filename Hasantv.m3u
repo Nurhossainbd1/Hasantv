@@ -180,7 +180,15 @@ https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/ag0z5T3.jpg",FBTV 
 http://162.244.81.200:1935/live/livestream/playlist.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/1GlXaf2.jpg",Kasba Tv
-https://tvhost.technohaat.net/engbd/KasbaTV/chunks.m3u8?
+<!DOCTYPE html><html><head><meta name="viewport" content="width=device-width"><style type="text/css">* {user-select: auto !important; -webkit-user-select: auto !important;}</style><input type="hidden" id="inject_idm_text_selection"></head><body><video controls="" autoplay="" name="media"><source src="https://tvhost.technohaat.net/engbd/KasbaTV/chunks.m3u8?nimblesessionid=192564" type="application/vnd.apple.mpegurl"></video></body></html>
+
+
+
+
+
+
+
+
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/qKf0Ih3.png",TV ONE
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/tvoneuksni.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/BHJMbnO.jpg",Ktv Bangla
