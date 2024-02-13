@@ -2,7 +2,9 @@
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Hasan Tv 
 
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/GCFaFKi.jpg",Hasan Tv 2
- 
+http://sami@ddh2.nnotoplay.click/premium270/mono.m3u8
+
+
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
@@ -525,24 +527,24 @@ http://ott1.co:8080/live/22552255/22552255/146.ts
 
 
 
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 1
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 1
 http://103.109.56.116/live/skyfeed1006/index.m3u8
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
 http://103.142.80.22:8080/Channel-1/index.m3u8
 http://pgplex.net:8080/BPL2024/index.m3u8
 http://103.142.80.22:8080/Channel-1/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 3
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 3
 https://sports.yunyingtiandi.com/live/m33002828/playlist.m3u8?wsSession=976e479712ecf3261cdcfc31-170748668433305&wsIPSercert=ba45cb8c6b2e669ca0a32cde53f40478
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/rfSwNjd.jpg",ACC MEN'S T20I CHALLENGER CUP-Indonesia vs Thailand
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/rfSwNjd.jpg",ACC MEN'S T20I CHALLENGER CUP-Indonesia vs Thailand
 https://sports.yunyingtiandi.com/live/m33000241/playlist.m3u8?wsSession=c8d39eb681de83063c316650-170727705794934&wsIPSercert=5b3de0ec28c837433618236e45778bc0
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/YXurvhy.jpg",SA20
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/YXurvhy.jpg",SA20
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/9WsBB3g.jpg",NEP vs CAN 
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/9WsBB3g.jpg",NEP vs CAN 
 https://dai.fancode.com/primary/93874_english_hls_5401adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="LIVE EVENT" tvg-logo="https://i.imgur.com/gqpnt2Y.jpg",New Zealand vs South Africa, 1st Test
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/gqpnt2Y.jpg",New Zealand vs South Africa, 1st Test
 https://sports.yunyingtiandi.com/live/m32982404/playlist.m3u8?wsSession=4fe019e3a0f9589d21561ea1-170726346201680&wsIPSercert=ba45cb8c6b2e669ca0a32cde53f40478
 
 
