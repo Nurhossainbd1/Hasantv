@@ -212,7 +212,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png"group-title="KOLKATA",Star Jalsha HD
 http://mag.trexlive.me/Michael88/Michael88/1118057
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/ItU5C2m.png",Colors Bangla 
-https://bongohub.pw/bioscope.php?cc=colors-bangla
+http://mag.trexlive.me/Michael88/Michael88/225740
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png",Colors Bangla HD
 http://mag.trexlive.me/Michael88/Michael88/282063
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
@@ -228,7 +228,7 @@ https://entezeetv.fun/tof/playlist.php?1d17eb03089828300e4ed40de4cffa49400b75334
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/rmHJ4szR/CjIopW5.jpg",Jalsha Movies HD
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg",Zee Bangla Cinema
-http://honeywatch.net/play/live.php?mac=00:1A:79:A5:9F:91&stream=225781&extension=ts&play_token=SneK9AjE0p
+http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/rF1bgHyP/Enterr-10.png",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/d1vGpCS.jpg",Tara Bangla Cinema 
