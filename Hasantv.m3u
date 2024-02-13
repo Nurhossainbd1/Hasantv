@@ -679,7 +679,7 @@ http://ott1.co:8080/live/22552255/22552255/55.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
 http://xtv.ooo:8080/6199216/619002/238487
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
-http://ott1.co:8080/live/22552255/22552255/2496.ts
+http://xtv.ooo:8080/6199216/619002/238475
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 2
@@ -732,7 +732,7 @@ http://ott1.co:8080/live/22552255/22552255/210164.ts
 http://ott1.co:8080/live/22552255/22552255/242869.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/InMnCM5.png",Premier League 
-http://supersonictv.live:8080/419094/970686/86880
+http://xtv.ooo:8080/6199216/619002/346242
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",Tennis 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
@@ -746,7 +746,7 @@ http://ott1.co:8080/live/22552255/22552255/1856.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/qTohtSI.jpg",MAQ Cricket
 http://cdn20.liveonlineservices.com/hls/eye95tv.m3u8
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports HD
-
+http://xtv.ooo:8080/6199216/619002/352096
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/5exn7j1631279352.png" group-title="SPORTS", beIN Sports 1
 http://xtv.ooo:8080/6199216/619002/353014
 
