@@ -2,7 +2,14 @@
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Hasan Tv 
 http://starshare.live:8080/live/53rumaiz87/7567new977/205.ts
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/GCFaFKi.jpg",Hasan Tv 2
-https://sports.yunyingtiandi.com/live/m33011245/playlist.m3u8?wsSession=c8d39eb681de83063c316650-170782769677366&wsIPSercert=ba45cb8c6b2e669ca0a32cde53f40478
+    {
+      "id": 9,
+      "category_name": "AynaoOTT",
+      "name": "BTV National",
+      "link": "https://tvs1.aynaott.com/btvhd/index.m3u8?hdnts=st=1707793258~exp=1707836458~acl=/btvhd/*~data=103.90.200.200-PHONE~hmac=70054a051b2110b19ca08ca52d463bcc6be7030f7eec9d754a9c03d69b2c4c6e",
+      "headers": null,
+      "logo": "https://cloudtv.akamaized.net/anyott/images/CMS_BD/e669d5a1-5d1b-4583-9832-aff70bdfd893_180x180_e18f5d1e-879c-44e1-b50f-863b724b665d.png"
+    },
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
 #EXTINF:-1 tvg-id="" tvg-name="IQRA" tvg-logo="https://iqra.tv/wp-content/uploads/2023/10/IQRA-LOGO-PNG-connecting-you-to-the-source.jpg" group-title="ISLAMIC", ION TV
