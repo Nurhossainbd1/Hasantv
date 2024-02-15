@@ -549,8 +549,8 @@ http://103.109.56.116/live/skyfeed1002/index.m3u8
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/9WsBB3g.jpg",NEP vs CAN 
 https://dai.fancode.com/primary/93874_english_hls_5401adfreeta-no/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/gqpnt2Y.jpg",New Zealand vs South Africa, 1st Test
-https://sports.yunyingtiandi.com/live/m32982404/playlist.m3u8?wsSession=4fe019e3a0f9589d21561ea1-170726346201680&wsIPSercert=ba45cb8c6b2e669ca0a32cde53f40478
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/kkF8hVG.jpg",INDIA VS ENGLAND 
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/hd_akamai_iosmob_avc_eng_indvseng_test03day01150224/master.m3u8
 
 
 
