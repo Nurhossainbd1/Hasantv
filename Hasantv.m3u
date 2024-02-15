@@ -29,7 +29,7 @@ https://eamintalukdar.xyz/bioscope.php?id=btv-hd
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 https://eamintalukdar.xyz/bioscope.php?id=btv-world
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
-http://cdn01.palki.tv/live/BTVChattogram-M/index.m3u8
+https://edge4.bioscopelive.com/hls/anonymous/X99L75aTyCfdksI8gSaDww/1707992326/nexde-btv-chattogram_hi/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 https://api.bongohub.pw/playlistx/bs4.php?id=sangsad-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
