@@ -790,9 +790,9 @@ https://edge2.laotv.la/live/Bsport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/lDZ4rZA.png",Eurosport 
 http://mag.trexlive.me/Michael88/Michael88/156027
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
-http://pgplex.net:8080/StarSports1HD/index.m3u8
+http://103.2.153.38/trans1sd/smil:starsports1.smil/chunklist_w870549950_b596000.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
-http://pgplex.net:8080/StarSports2HD/index.m3u8
+http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=155976&extension=ts&play_token=fqC4dzZ4Mr
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
