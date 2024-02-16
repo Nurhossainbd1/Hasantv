@@ -487,7 +487,9 @@ https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=36
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nicke JR
 http://195.26.87.217/live.ts?channelId=252&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick 
-https://api.bongohub.pw/playlistx/bs4.php?id=nickelodeon
+https://uniflixbd.xyz/unuse/payplay/live.php?id=fd1444ce2617&e=.m3u8
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/3EJN4q6.png",Nick Hindi 
+https://uniflixbd.xyz/unuse/payplay/live.php?id=fd1444ce2617&e=.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png",GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic
@@ -495,7 +497,9 @@ http://ott1.co:8080/live/22552255/22552255/207.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/bqz9EXY.png",WOW Kids
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/NDpwAkN.png",Sony Yay
-https://eamintalukdar.xyz/bioscope.php?id=sony-yay-live
+https://uniflixbd.xyz/unuse/payplay/live.php?id=edf7ba617dc5&e=.m3u8
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/NDpwAkN.png",Sony Yay Hindi
+https://cdn-tv.co.in/myweb/watch.php?id=1000001971&e=.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/FRrHfYJ.jpg",Mr.Been
 http://pxy.proxytx.cloud/play/live.php?mac=00:1A:79:74:6A:13&stream=587342&extension=ts&play_token=GOLQD0m8lL
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://www.kidsflix.com/themes/custom/viva/kidsflix/logo.png",KIDS FLIX
