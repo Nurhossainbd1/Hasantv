@@ -395,7 +395,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeeaction/default/zeeaction-audio_20
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/dd8VLUN.jpg",Bollywood Classic
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-classic/manifest.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/FR1B8JHz/image.jpg",Zee Talkies
-https://bq32.short.gy/join@vaathala1?mac=00:1a:79:4b:66:ae&stream=1117978&extension=.ts
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/Qd4gPY9g/zee-talkies-hd-hover.jpg",Zee Talkies HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png",Zee Tamil
@@ -407,7 +407,7 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/zf6bpc4f/bollywood-hd.jpg",Bollywood HD
 https://d35j504z0x2vu2.cloudfront.net/v1/manifest/0bc8e8376bd8417a1b6761138aa41c26c7309312/bollywood-hd/43e99595-3ab3-4f82-a828-0d32dc308c98/0.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/QQX9A0m.png",Star Bharat HD
-http://mag.trexlive.me/Michael88/Michael88/156173
+http://xtv.ooo:8080/8777877/8777777/66171
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/1/STAR-MOVIES-HD/video.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/MZRLN9mQ/GmOSY4B.jpg",Star Movies Select 
@@ -440,25 +440,26 @@ http://64.31.40.14:14031/
 http://195.26.87.217/live.ts?channelId=200&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.postimg.cc/65J7LPtB/download-3.png",MOVIE SPHERE
 https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
+#EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
-http://mitvpro.online:88/02025685921199/8999991992/100816
+http://xtv.ooo:8080/8777877/8777777/104201
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
-http://mag.trexlive.me/Michael88/Michael88/280803
+http://xtv.ooo:8080/8777877/8777777/104190
 #EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=Dhinchaak
+http://xtv.ooo:8080/8777877/8777777/374980
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=Goldmines
+http://xtv.ooo:8080/8777877/8777777/112972
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
 https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=GoldminesMovies
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=GoldminesBollywood
+http://xtv.ooo:8080/8777877/8777777/112973
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=DhamakaMovies
-#EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/9fd5Oq8.png",
+http://xtv.ooo:8080/8777877/8777777/66184
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/i1UkI3B.jpg",South Station
+https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="BHOJPURI" tvg-logo="https://i.imgur.com/D7gb7ri.jpg",Bhojpuri Cinema 
