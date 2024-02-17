@@ -681,7 +681,7 @@ http://ott1.co:8080/live/22552255/22552255/283.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/nZLmIZ4.png",TNT 4
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gvxIi6B.jpg",SSC NEWS
-http://starshare.live:8080/live/CathrinSailerThabit6/Summer789878/123087.ts
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/od4AN28.jpg",SSC 1
 http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Y9bH41d.jpg",SSC 2
@@ -718,7 +718,7 @@ http://ott1.co:8080/live/22552255/22552255/55.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
 http://xtv.ooo:8080/6199216/619002/238487
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
-http://xtv.ooo:8080/6199216/619002/238475
+http://xtv.ooo:8080/8777877/8777777/238475
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 1 
 https://edge1.laotv.la/live/TSport1/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Premier 2
@@ -762,7 +762,7 @@ http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4[2].png" group-title="SPORTS", ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
-http://ott1.co:8080/live/22552255/22552255/210358.ts
+http://xtv.ooo:8080/8777877/8777777/347276
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CtD4WaZ.png",Eleven Sports 1
 http://ott1.co:8080/live/22552255/22552255/210158.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Eleven Sports 2
@@ -771,13 +771,13 @@ http://ott1.co:8080/live/22552255/22552255/210164.ts
 http://ott1.co:8080/live/22552255/22552255/242869.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/InMnCM5.png",Premier League 
-http://xtv.ooo:8080/6199216/619002/346242
+http://xtv.ooo:8080/8777877/8777777/346242
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I1VyWqt.jpg",Tennis 
 https://tennischannel-int-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSA26xpAIdOiiwQCcC0yXgLOM4Rl2vXSsjDUA&usqp=CAU" group-title="SPORTS", FOX Cricket 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://olalivehdplay.ru/
-http://ott1.co:8080/live/22552255/22552255/1856.ts
+http://xtv.ooo:8080/8777877/8777777/167593
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/FNP4KOL.png",Fox Sports 2
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/S07QFf2.png",Abu Dhabi Sport 1
@@ -817,9 +817,9 @@ http://172.17.50.112/live/fifa2022/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
 http://line.premiumpowers.net/play/live.php?mac=00:1A:79:73:45:10&stream=155976&extension=ts&play_token=fqC4dzZ4Mr
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/OcBylY2.jpg",Star Sports Select 1
-http://pgplex.net:8080/StarSportsSelect1/index.m3u8
+http://xtv.ooo:8080/8777877/8777777/167578
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/4mi15gR.jpg",Star Sports Select 2
-https://freeiptv25.netlify.app/live/bdix/app/StarSelect2.m3u8
+http://xtv.ooo:8080/8777877/8777777/167579
 
 #EXTINF:-1 group-title="DOCUMENTARY" tvg-logo="https://i.postimg.cc/vmT9k8CZ/vsBKeDw.png",Discovery Bangla
 https://varun-iptv.netlify.app/m3u/discoverybengali.m3u8
