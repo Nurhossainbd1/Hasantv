@@ -5,6 +5,17 @@ https://i.imgur.com/KustFYl.mp4
 #EXTINF:-1 group-title="Powered By Hasan" tvg-logo="https://i.imgur.com/Esh51JK.jpg",Hasan Tv 2
 https://worker-wild-lab-a48a.assadikb.workers.dev/0:/Dukkhito.2024.720p.BongoBD.mkv
 
+ {
+    "name": "Live",
+    "link": "https://cdn-rum.n2olabs.pro/stream.m3u8?url=https%3A%2F%2Flivecdn.rumsport.com%2Fstream%2F8%2Findex.m3u8&token=766916551555cd22c520823659376fd4cf6f610f&is_vip=false&verify=1708430400-kPme%2BoNnUEbjLxjSZaRSY2kBChCWZhXQaW5qc4KCmQs%3D",
+    "logo": "https://static.vecteezy.com/system/resources/previews/016/314/808/original/transparent-live-transparent-live-icon-free-png.png",
+    "origin": "",
+    "referer": "https://live-streamfootball.com/",
+    "userAgent": "Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36",
+    "cookie": "",
+    "drmScheme": "",
+    "drmLicense": ""
+  },
 
 #EXTINF:-1 group-title="ISLAMIC" tvg-logo="https://i.postimg.cc/CMNKxzbY/main-logo.png",Peace Tv
 http://176.119.29.52/live.ts?channelId=237&uid=3702&deviceMac=00:1A:79:3B:33:26
