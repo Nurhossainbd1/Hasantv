@@ -455,21 +455,21 @@ https://moviesphereuk-samsunguk.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/1M0jHid.png",Action Hollywood Movie 
 https://amg01076-lightningintern-actionhollywood-samsungnz-82rry.amagi.tv/playlist/amg01076-lightningintern-actionhollywood-samsungnz/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ahKkY3Z.png",B4U Movie
-http://xtv.ooo:8080/8777877/8777777/104201
+http://xtv.ooo:8080/live/T4S00515/820172/104201.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/XG6VhVF.jpg",B4U Kadak
 https://idvd.multitvsolution.com/idvo/moviehouse_540p.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/J1abUHL.jpg",BFLIX Movie
-http://xtv.ooo:8080/8777877/8777777/104190
+http://xtv.ooo:8080/live/T4S00515/820172/104190.ts
 #EXTINF:-1 tvg-id="" tvg-name="DHINCHAAK" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b0/Dhinchaak.jpg" group-title="INDIAN", DHINCHAAK
-http://xtv.ooo:8080/8777877/8777777/374980
+http://xtv.ooo:8080/live/T4S00515/820172/374980.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/66/Goldmines_Logo.png" group-title="INDIAN", GOLDMINES
-http://xtv.ooo:8080/8777877/8777777/112972
+http://xtv.ooo:8080/live/T4S00515/820172/112972.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES MOVIES" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/9/9b/Goldmines_Movies.jpg" group-title="INDIAN", GOLDMINES MOVIES
-https://byte-capsule-2x.onrender.com/api/aynaott/sign?channel_id=GoldminesMovies
+http://xtv.ooo:8080/live/T4S00515/820172/275337.ts
 #EXTINF:-1 tvg-id="" tvg-name="GOLDMINES BOLLYWOOD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b8/Goldmines_Bollywood.jpg" group-title="INDIAN", GOLDMINES BOLLYWOOD
-http://xtv.ooo:8080/8777877/8777777/112973
+http://xtv.ooo:8080/live/T4S00515/820172/112973.ts
 #EXTINF:-1 tvg-id="" tvg-name="DHAMAKA MOVIES" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6e/B4U_Logo_2022.png" group-title="INDIAN", DHAMAKA MOVIES
-http://xtv.ooo:8080/8777877/8777777/66184
+http://xtv.ooo:8080/live/T4S00515/820172/66184.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/i1UkI3B.jpg",South Station
 https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-tke03xaj1wszc/South_Station_IN/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
