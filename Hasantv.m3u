@@ -706,7 +706,7 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/54799.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Y9bH41d.jpg",SSC 2
 http://xtv.ooo:8080/6199216/619002/353562
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/u902a6A.jpg",SSC 3
-http://xtv.ooo:8080/6199216/619002/353563
+http://xtv.ooo:8080/live/T4S00515/820172/353563.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/29f6oTr.png",SSC 4
 http://xtv.ooo:8080/6199216/619002/353564
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/I4UivSR.jpg",SSC 5
@@ -727,13 +727,13 @@ http://carmeltv.live:80/EXCHANGEukmed/QHZ5pjF7UdKx/53711.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/2RUKoh7.png",Atnnat
 https://d10rltuy0iweup.cloudfront.net/ATNNAT/myStream/chunklist_w1814215713.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",Football 
-http://185.224.217.14:25461/419094/970686/86869?token=ShRZAEYJFQxGWlAKBwEABwIAUlcCV1tUB1sAVFRXAFYEDwkHBVcFA1YaShpGQUQDVlVuXFUXAw4DWgEOHRYTFVREbghRQw0UUQhVCgMXGkRDUVxQEw8IAQVWDgUIAlFUHRRBCFFDDRRVDlEBFxkUA09MVEdfVFVpUQdBXlJRRFxfQ10NGUNYWDtcA1VUW1JEDRoAFx0XUEVFQA1ZRFgKShNUWBVHAENTRgJECw0MAEQbGlJaRFtNRExADRVzcERKE1NJFVAPRF8LVkQCF0FFRBsaWEZuR1xFQRBSVlxRFEQLFAFDGUNaVxxnBVdbW1MFQ1FeW0IXAxQBQBsVXFsID0VZQz5FCFMUXhpeDgMBD0RK
+http://xtv.ooo:8080/live/T4S00515/820172/238480.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/LiExax0.png",Football 2
 https://rmtv.akamaized.net/hls/live/2043154/rmtv-en-web/bitrate_3.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 1
 http://ott1.co:8080/live/22552255/22552255/54.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/kaYFJhu.png",FS 2
-http://ott1.co:8080/live/22552255/22552255/55.ts
+http://xtv.ooo:8080/live/T4S00515/820172/347290.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/gMN2cTq.jpg",Super Sports Blitz 
 http://xtv.ooo:8080/6199216/619002/238487
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/UPA08vS.jpg",Supersports Cricket 
