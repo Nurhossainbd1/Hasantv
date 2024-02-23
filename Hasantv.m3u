@@ -433,11 +433,11 @@ http://xtv.ooo:8080/live/T4S00515/820172/346570.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/nXxPliC.png",HBO Signature 
 http://xtv.ooo:8080/live/T4S00515/820172/346571.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/kmyHso0.png",HBO Hits
-http://xtv.ooo:8080/6199216/619002/350957
+http://xtv.ooo:8080/live/T4S00515/820172/350957.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/ALV5d53.png",Movies Now
-http://xtv.ooo:8080/8777877/8777777/66271
+http://xtv.ooo:8080/live/T4S00515/820172/66271.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/uNWHQxu.png",MN+
-http://xtv.ooo:8080/8777877/8777777/66244
+http://xtv.ooo:8080/live/T4S00515/820172/66266.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/Qyj4wsO.png",Rock Action
 http://210.210.155.35/dr9445/h/h15/index.m3u8
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/G6xBGv8.jpg",Hungama 
