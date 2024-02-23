@@ -639,14 +639,14 @@ https://newedge.eu-central-1.edge.mycdn.live/live/sportv224ha/playlist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/btKWGFc.png",LaLiga
 http://xtv.ooo:8080/live/T4S00515/820172/353953.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/ciWkUY0.jpg",Supar Sports Premiere League 
-http://xtv.ooo:8080/87658765/91747291/238478
+http://xtv.ooo:8080/live/T4S00515/820172/353956.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/tjNqdEe.png",DD Sports
 http://xtv.ooo:8080/6199216/619002/167588
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/K8YZbT2b/Ten-Sports-HD.jpg",Ten Sports HD
 http://xtv.ooo:8080/6199216/619002/167569
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/qetXNmM.jpg",Ten Cricket HD
-https://salamus2023.onlinehdhls.ru/ddy3/premium741/playlist.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+http://xtv.ooo:8080/live/T4S00515/820172/167587.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/jfUAX3q.png",PREMIER SPORTS 2
 http://202.21.104.6:88/sps-play/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/suTsrGn.png",FIFA TV
@@ -670,11 +670,10 @@ https://i.mjh.nz/SamsungTVPlus/ATBA3300007PT.m3u8
 http://xtv.ooo:8080/6199216/619002/371469
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/j22ggjf.png",Criclife 2
-http://xtv.ooo:8080/8777877/8777777/371470
+http://xtv.ooo:8080/live/T4S00515/820172/355009.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/HajfK41.png",Criclife 3
-http://ott1.co:8080/live/22552255/22552255/158895.ts
-
+http://xtv.ooo:8080/live/T4S00515/820172/355010.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/5YxbUFg.png",Sky Open
 https://linear-p.media.skyone.co.nz/primeplus1.clear_2.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Sky sports Cricket
