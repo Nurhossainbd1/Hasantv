@@ -753,10 +753,10 @@ http://xtv.ooo:8080/live/T4S00515/820172/238490.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Geo Super
 http://195.26.87.217/live.ts?channelId=274&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/0lwdq31638048788.png" group-title="SPORTS",Variety 1
-http://supersonictv.live:8080/419094/970686/86865
+http://xtv.ooo:8080/live/T4S00515/820172/238481.ts
 
 #EXTINF:-1 tvg-logo="https://www.thesportsdb.com/images/media/channel/tvlogo/9vnt801638048828.png" group-title="SPORTS",Variety 2
-http://supersonictv.live:8080/419094/970686/86866
+http://xtv.ooo:8080/live/T4S00515/820172/238482.ts
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkywZN6_Tc3VuvE4JCsLOqbqwBg3ywsJ1BOw&usqp=CAU",Ptv Sports 
 http://ott1.co:8080/live/22552255/22552255/61674.ts
@@ -781,11 +781,11 @@ http://45.179.140.242:8000/play/a0je
 #EXTINF:-1 tvg-logo="https://assets-global.website-files.com/605a3cacba514a77ca2e6ab5/61a4c896fc740bb1476f0225_LOGO_ESPN4[2].png" group-title="SPORTS", ESPN 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://futebolplayhd.com/
-http://xtv.ooo:8080/8777877/8777777/347276
+http://xtv.ooo:8080/live/T4S00515/820172/348115.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/CtD4WaZ.png",Eleven Sports 1
-http://ott1.co:8080/live/22552255/22552255/210158.ts
+http://xtv.ooo:8080/live/T4S00515/820172/233085.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Ry0XU93.png",Eleven Sports 2
-http://ott1.co:8080/live/22552255/22552255/210164.ts
+http://xtv.ooo:8080/live/T4S00515/820172/233075.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/NhA7q41.jpg",Apple Tv
 http://ott1.co:8080/live/22552255/22552255/242869.ts
 
