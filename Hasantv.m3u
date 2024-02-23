@@ -488,7 +488,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/342075.ts
 http://xtv.ooo:8080/live/T4S00515/820172/344483.ts
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.imgur.com/vHYWrrF.jpg",Big Boss
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
-
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png",Super Dancer 
+http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png",KHUSHBOO BANGLA
 http://line.rs6ott.com/739c55b5c4c1/5953764852df/225809
