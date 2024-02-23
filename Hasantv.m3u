@@ -360,7 +360,7 @@ http://line.rs6ott.com/739c55b5c4c1/5953764852df/163523
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX HD 
 http://xtv.ooo:8080/live/T4S00515/820172/221259.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/4X1Sw66.jpg",Sony Max 2
-http://mag.trexlive.me/Michael88/Michael88/280780
+http://xtv.ooo:8080/live/T4S00515/820172/66189.ts
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix
 http://xtv.ooo:8080/6199216/619002/66224
 #EXTINF:-1 group-title="ENGLISH" tvg-logo="https://i.imgur.com/q5TILhg.png",Sony Pix HD
@@ -372,9 +372,9 @@ http://195.26.87.217/live.ts?channelId=193&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/FOgubQl.jpg",Sony Pal
 http://xtv.ooo:8080/6199216/619002/104192
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors
-http://mag.trexlive.me/Michael88/Michael88/42446
+
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/jqg966Lm/E2mqi9q.png",Colors Hd
-http://xtv.ooo:8080/8777877/8777777/66167
+http://xtv.ooo:8080/live/T4S00515/820172/221254.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/MyfKDWw.png",Colors Cineplex
