@@ -83,7 +83,7 @@ http://cdn01.palki.tv/live/Channel9-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/vdKhyBM/images-25.jpg",Channel 24
 http://mega4k.one:8080/live/987654321/987654321/94143.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/HBF4nQv/ekattortv.png",Ekattor Tv
-http://ott1.co:8080/live/22552255/22552255/428.ts
+http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI",Asian TV
 http://mega4k.one:8080/live/987654321/987654321/94114.ts
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/wBmvBvML/Nexus-Television-Logo.png",Nexus Tv
