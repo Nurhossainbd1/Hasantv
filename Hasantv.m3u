@@ -626,8 +626,8 @@ https://sports.yunyingtiandi.com/live/m33030638/playlist.m3u8
 https://sports.yunyingtiandi.com/live/m33000241/playlist.m3u8?wsSession=c8d39eb681de83063c316650-170727705794934&wsIPSercert=5b3de0ec28c837433618236e45778bc0
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
 http://103.109.56.116/live/skyfeed1002/index.m3u8
-#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/YXurvhy.jpg",SA20
-https://edge3-moblive.yuppcdn.net/trans1sd/smil:starsports1.smil/chunklist.m3u8
+#EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png",woman's Premier League 
+https://prod-ent-live-gm.jiocinema.com/hls/live/2100297/uhd_akamai_ctv_avc_eng_wpl_s1_m1240224/index.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/BOBdv0P.png",PSL 2024
 https://tencentscdn2.tamashaweb.com/v1/018ad584681c09831f17035dc819/018ad58586961eb401a60363c44c/main.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/BOBdv0P.png",PSL 2024
