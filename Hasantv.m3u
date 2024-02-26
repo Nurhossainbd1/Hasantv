@@ -780,6 +780,8 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/rFpPQoj.png",Sports 18
 http://pgplex.net:8080/Sports18HD/index.m3u8
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/fTRM9dCF/images-29.png",Sports18-1
+http://103.131.214.129:9985/stream/channelid/48596000?ticket=16A6D3DA0A06A7C9D80D966A652208743BEF5BE0&profile=pass
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/X1pVgWJ.png",Mu Tv
 https://bcovlive-a.akamaihd.net/r2d2c4ca5bf57456fb1d16255c1a535c8/eu-west-1/eu-west-1/6058004203001/profile_2/chunklist.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/VPMrqMZ.jpg",Super Motor Sports 
