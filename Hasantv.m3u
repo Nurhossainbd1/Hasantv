@@ -223,6 +223,7 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/24ghanta/default/index.m3u8
 https://api.bongohub.pw/api/bio.php?ac=zee-bangla
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/F0dmFko.jpg",Zee Bangla HD
 http://pgplex.net:8080/ZeeBanglaHD/index.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/245893.ts
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png",Star Jolsha
 http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA/video.m3u8
 #EXTINF:-1  tvg-logo="https://i.postimg.cc/kMLCcVQ8/Star-Jalsha-logo-2023.png"group-title="KOLKATA",Star Jalsha HD
@@ -231,6 +232,7 @@ http://45.127.56.3:9698/live/Corpus-POL/SRV4/3/STAR-JALSHA-HD/video.m3u8
 https://api.bongohub.pw/api/bio.php?ab=colors-bangla
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/4N2J9T1k/HVZHZGl.png",Colors Bangla HD
 http://pgplex.net:8080/ColorsBangla/index.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/245895.ts
 #EXTINF:-1 tvg-id="" tvg-name="COLORS BANGLA CINEMA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/8c/Colors_Bangla_Cinema.png/revision/latest?cb=20200720045951" group-title="KOLKATA", COLORS BANGLA CINEMA
 https://tv.bongohub.pw/apix/bdix.php?id=1404&e=.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/2yDwk7ph/Sun-Bangla.png",Sun Bangla 
@@ -247,6 +249,7 @@ http://176.119.29.52/live.ts?channelId=117&deviceMac=00:1A:79:0A:CA:4F
 http://tv.cloudcdn.me:80/live.ts?channelId=117&uid=7970&deviceMac=00:1A:79:31:34:35
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/dQ80KYLX/ZVro-V3u-400x400.jpg",Zee Bangla Cinema
 http://pgplex.net:8080/ZeeBanglaCinema/index.m3u8
+http://xtv.ooo:8080/live/T4S00515/820172/245897.ts
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/rF1bgHyP/Enterr-10.png",Enter 10 Bangla
 https://live-bangla.akamaized.net/liveabr/pub-iobanglakp3sff/live_240p/chunks.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/d1vGpCS.jpg",Tara Bangla Cinema 
