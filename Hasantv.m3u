@@ -528,7 +528,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/251590.ts
 
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/cJmTRWbx/Khusboo-TV.png",KHUSHBOO BANGLA
-http://idvd.multitvsolution.com/idvo/khushboo.m3u8
+https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=155&e=.m3u8|User-Agent=test69
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/3Rx5tk1Q/duronto-tv.png",Rongeen Tv
 https://cdn.smartstream.video/smartstream-us/rongeentv/rongeentv/chunks.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/LZPwHc2.png",Disney HD
@@ -540,6 +540,8 @@ https://dplus.gammacdn.workers.dev/videos/113.m3u8
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://kidscreation.tv/wp-content/uploads/2022/11/KidsCreation-Logo-1.png",Kids Cartoon 
 https://vods1.aynaott.com/kidscreation_test/tracks-v1a1/mono.m3u8
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/fRfZL52V/images-5-3.jpg",Kidsland
+https://raw.githubusercontent.com/IftyER/yt/main/kidsland.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network 
 https://cdn-singapore-5160-prod.tsv2.amagi.tv/linear/amg01448-samsungin-cartoonnw-samsungin/playlist.m3u8?ads.did=%7BPSID%7D&ads.dnt=%7BTARGETOPT%7D&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D&ads.coppa=1
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/J75k3Hqs/1200px-Cartoon-Network-2010-logo-svg.png",Cartoon Network Hindi 
@@ -557,7 +559,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png",GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic
-http://ott1.co:8080/live/22552255/22552255/207.ts
+https://api.bongohub.pw/api/bio.php?ac=sonic
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/bqz9EXY.png",WOW Kids
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/vbi9liD.jpg",WOW Comedy 
