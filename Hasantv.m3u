@@ -639,7 +639,7 @@ http://xtv.ooo:8080/shahz18/18usman/167590
 
 
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 3
--https://sports.yunyingtiandi.com/live/m33051402/playlist.m3u8?wsSession=4fe019e3a0f9589d21561ea1-170895105264462&wsIPSercert=c03129fcc4b001171f04f236760adf77
+https://prod-ec-eu-central-1.video.pscp.tv/Transcoding/v1/hls/qvPvHfn4XaUSQy-8cwTkXmHfiFR3DzpM9iCDFZHaw67kh1RiJIp6HjD8lz_KLa4wP-608YoEvmqpv0HORyiF0A/non_transcode/eu-central-1/periscope-replay-direct-prod-eu-central-1-public/master_dynamic_highlatency.m3u8?type=live
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/rfSwNjd.jpg",ACC MEN'S T20I CHALLENGER CUP-Indonesia vs Thailand
 https://sports.yunyingtiandi.com/live/m33000241/playlist.m3u8?wsSession=c8d39eb681de83063c316650-170727705794934&wsIPSercert=5b3de0ec28c837433618236e45778bc0
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/j69yOgM.jpg",U19 Live Server - PAK-U19 vs AU-U19
