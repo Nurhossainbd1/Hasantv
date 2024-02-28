@@ -629,6 +629,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/109985.ts
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 1
 http://103.142.80.22:8080/GAZI/index.m3u8
 http://103.142.80.22:8080/GAZI/index.m3u8
+https://live-cdn.tsports.com/live-02/index.m3u8%7Ccookie=Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1709154337:KeyName=tsports-ed25519-01:Signature=49BdCR5XbarNkHQnRSkIJGcAX1B3T56xF-6bt0YHLGKF8uUJgOcsYVRlVEfYumLJf6KMN42Cnxygrt_50IwuAQ
 https://nayeem-parvez.pw/api/ayna/stream.m3u8?id=19&e=.m3u8|User-Agent=test69
 http://176.119.29.52/live.ts?channelId=098&uid=3319&deviceMac=00:1A:79:50:31:74
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.imgur.com/AbgZ6o9.jpg",BPL LIVE SERVER 2
