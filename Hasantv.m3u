@@ -402,6 +402,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/221254.ts
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/MyfKDWw.png",Colors Cineplex
 http://xtv.ooo:8080/live/T4S00515/820172/104191.ts
+#EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/7LyYgcrq/160x0-icon.png",Colors Cineplex HD
+http://xtv.ooo:8080/564587696/474585694/206315
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/20dvTcf.png",Colors Cinema Bollywood 
 http://xtv.ooo:8080/live/T4S00515/820172/112983.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/Clzyj12.jpg",Colors Cineplex Superhit
