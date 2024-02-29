@@ -274,6 +274,8 @@ https://vg-tv9yupp.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca14134537
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/shreebangla.stream/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/p4FlKWb.jpg"group-title="KOLKATA",Sristi Tv
 https://sristi1.livebox.co.in/sristihls/live.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/XqQLS0Qc/Dd-Bangla.png"group-title="KOLKATA",DD Bangla
+http://xtv.ooo:8080/live/T4S00515/820172/355656.m3u8
 
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.imgur.com/eJVyPpD.jpg",Robindo songit
 http://tinyurl.com/Rabindrasang
@@ -657,7 +659,7 @@ http://xtv.ooo:8080/87658765/91747291/219689
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/mZ5pg4H9/Women-s-Premier-League-svg.png",woman's Premier League 
 https://live.himel-himu@1rdk.short.gy/JioCinema/WPL-2024/Hin-4k/Himel-Op.m3u8
 #EXTINF:-1 group-title="LIVE NOW" tvg-logo="https://i.postimg.cc/qBSXzJ36/images-30.png",Indian Super League
-http://195.26.87.217/live.ts?channelId=36290&uid=7435&deviceMac=00:1A:79:51:4B:3A
+http://xtv.ooo:8080/live/T4S00515/820172/355656.m3u8
 
 
 
