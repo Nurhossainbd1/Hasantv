@@ -358,12 +358,12 @@ https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeemarathihd/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtv/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/xTj2gSp8/image.jpg", & Tv HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andtvhd/default/andtvhd-audio_208482_und=208000-video=1087600.m3u8
+http://xtv.ooo:8080/564587696/474585694/221253
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictures/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/mkp3kxFJ/pictures.png",& Picture HD
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Andpictureshd/default/andpictureshd-audio_208482_und=208000-video=2137600.m3u8
-http://filex.tv:8080/Amir8759/Amir9578/246758
+http://xtv.ooo:8080/564587696/474585694/221260
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9M6BGpMK/flix.jpg",& Flix HD
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/7VRBdee.png",Brat Tv
@@ -375,7 +375,7 @@ https://spt-sonykal-1-us.lg.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab 
 http://195.26.87.217/live.ts?channelId=192&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/qanBTkv.png",Sony Sab HD
-http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96184
+http://xtv.ooo:8080/564587696/474585694/221256
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/ADXlju2.png",Sony WAH
 http://sansat.net:88/qcDCPJFs72rbRPv/VuvgvTcLDJmQrDp/96186
 #EXTINF:-1 tvg-id="" tvg-name="SONY MAX" tvg-logo="https://i.ibb.co/q9Nwjh0/Picsart-23-06-07-12-58-14-641.png" group-title="INDIAN", SONY MAX
@@ -401,7 +401,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/221254.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/h86708M.png",Colors Rishtey
 http://195.26.87.217/live.ts?channelId=158&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/MyfKDWw.png",Colors Cineplex
-http://xtv.ooo:8080/live/T4S00515/820172/104191.ts
+http://195.26.87.217/live.ts?channelId=156&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/7LyYgcrq/160x0-icon.png",Colors Cineplex HD
 http://xtv.ooo:8080/564587696/474585694/206315
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.imgur.com/20dvTcf.png",Colors Cinema Bollywood 
