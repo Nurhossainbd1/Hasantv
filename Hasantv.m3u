@@ -902,6 +902,8 @@ https://edge2.laotv.la/live/Bsport1/index.m3u8
 http://mag.trexlive.me/Michael88/Michael88/156027
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1
 http://xtv.ooo:8080/live/T4S00515/820172/167575.ts
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 1 Hindi
+http://xtv.ooo:8080/564587696/474585694/167573
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/B6u40R7.jpg",Star Sports 2
 http://xtv.ooo:8080/live/T4S00515/820172/167576.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q4KBIme.png",Star Sports 3
