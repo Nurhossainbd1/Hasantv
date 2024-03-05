@@ -340,6 +340,8 @@ http://mitvpro.online:88/02025685921199/8999991992/96364
 https://live-stream.utkalbongo.com/utkalbongo/stream7/hls/montvlivestream.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/3NcL7xYn/images-4-22.jpg",music 17
 http://xtv.ooo:8080/live/T4S00515/820172/270518.ts
+#EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.postimg.cc/xjw2NqZC/images-5-15.jpg",M music 
+https://mntv.livebox.co.in/musichls/live.m3u8
 #EXTINF:-1 group-title="MUSIC" tvg-logo="https://i.ibb.co/8B1Kz9C/Picsart-23-06-07-12-14-34-590.png",Music India
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Musicindia/default/musicindia-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/5yPKgzbx/vGq343l.png",Star Gold
