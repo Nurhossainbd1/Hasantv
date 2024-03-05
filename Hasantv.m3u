@@ -32,12 +32,15 @@ https://pull-cdnw.anystream.uk/live/cf46c8b0018c10009acded4c00000000/playlist.m3
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/8k9sq5Gd/btv.png",BTV National 
 https://bongohub.pw/bioscope.php?cc=btv-hd
 http://testing.denver1769.in/51.php?id=8399
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=btv-hd&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eJS0vGk.jpg",BTV World
 http://cdn01.palki.tv/live/BTVWorld-M/index.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=btv-world&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/r2YjB0s.png",BTV Chottogram 
 http://cdn01.palki.tv/live/BTVChattogram-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/8nRyyAu.png",Sangsad Tv
 http://cdn01.palki.tv/live/SangsadTV-M/index.fmp4.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sangsad-tv&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Banglavision.png",Bangla Vision 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/banglav000.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Boishaki%20TV.png",Boishakhi Tv
@@ -634,10 +637,13 @@ https://d1g8wgjurz8via.cloudfront.net/bpk-tv/9Xjhakaas/default/9Xjhakaas.m3u8
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Sangeetbhojpuri/default/sangeetbhojpuri-audio_208482_und=208000-video=2137600.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/3Qd5fSx.png",Sony Sports 1 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports1.smil/chunklist.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-1-live&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/6ezUY5q.png",Sony Sports 2 HD
 https://edge3-moblive.yuppcdn.net/trans1sd/smil:tensports2.smil/chunklist.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-2-live&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 tvg-logo="http://tv4.hoichoi24.com/assets/images/Sony TEN 31667728117.png" group-title="SPORTS", Sony Ten 3
 http://xtv.ooo:8080/live/T4S00515/820172/109985.ts
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-3-live&e=.m3u8|User-Agent=nayeem110
 
 
 
@@ -693,6 +699,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/355656.ts
 http://xtv.ooo:8080/live/T4S00515/820172/167595.ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Q1ULfns.png",Sony Sports 5 HD
 https://edge4-moblive.yuppcdn.net/trans1sd/smil:tensports5.smil/playlist.m3u8
+https://nayeem-parvez.pw/api/bioscope.m3u8?id=sony-ten-5&e=.m3u8|User-Agent=nayeem110
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/MclQoge.png",SonyLIV
 
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/g2TtQqvn/image.jpg",WWE
