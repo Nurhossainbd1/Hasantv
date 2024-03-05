@@ -535,6 +535,10 @@ http://xtv.ooo:8080/live/T4S00515/820172/344483.ts
 http://xtv.ooo:8080/live/T4S00515/820172/219642.ts
 #EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.postimg.cc/MXk3Hk6y/Super-Dancer.png",Super Dancer 
 http://xtv.ooo:8080/live/T4S00515/820172/344486.ts
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.postimg.cc/85KkXnvw/CID-landscape-thumb-new.jpg",CID
+http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
+#EXTINF:-1 group-title="TV SHOW" tvg-logo="https://i.postimg.cc/YCM6HhVV/Crime-Patrol-Satark.jpg",Crime Patrol
+http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 1
 http://xtv.ooo:8080/live/T4S00515/820172/268021.ts
