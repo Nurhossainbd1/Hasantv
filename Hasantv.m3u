@@ -75,15 +75,15 @@ http://tv.cloudcdn.me/live.ts?channelId=109&uid=5060&deviceMac=00:1A:79:73:9C:A1
 http://cdn01.palki.tv/live/NTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/JrR95zG/NTV-Bangladesh-logo-svg.pngg",Ntv Europe 
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/ntvuk00332211.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/GtX0FcP0/kFqOMtx.png",Ekushey Tv
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/C15wr1RW/Ekushey-Television-Logo-svg.png",Ekushey Tv
 http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
 http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/sfYz8v6h/GGbvbn-B-400x400.png",Bijoy Tv
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/YqfbV4jr/Z2QvpTn.png",Somay News
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay News
 http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent 
 http://cdn01.palki.tv/live/Independent-M/index.m3u8
