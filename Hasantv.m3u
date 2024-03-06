@@ -130,13 +130,13 @@ http://livess.jagobd.com.bd/live-orgin/globaltv.stream/chunks.m3u8
 https://livess.jagobd.com.bd/live-orgin/jamuna-test-sample-ok.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/vyo1cXY.jpg",Channel 23
 https://server1.jadubd.com/channel23/channel23/chunklist_w695517512.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/28t9GsW6/sekOPL6.png",Jago News 24
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/MHXbGyvd/unnamed-1.png",Jago News 24
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/news24local.stream/live-orgin/news24local.stream/chunks.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/eeANyjD.jpg",TBN 24
 https://dog.dg21bd.com/TBN24WEBUSA/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/AnUlFWN.jpg",Times 24
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/times24tv.stream/live-orgin/times24tv.stream/chunks.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/d3nqLj0g/Green-TV-Logo.png",Green Tv
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/L8jkh48K/images-5-21.jpg",Green Tv
 https://livess.jagobd.com.bd/live-orgin/greentv.stream/chunks.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/yldyrvA.jpg",Amar Bangla
 https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI2/amarbanglatv.stream/chunks.m3u8
@@ -144,7 +144,7 @@ https://livess.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF
 http://cdn01.palki.tv/live/GlobalTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/M6DLqSg/News-241664826177.jpg",News 24
 http://cdn01.palki.tv/live/News24-M/index.m3u8
-#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/59L5p15q/K43LsMQ.png",Bangla Tv
+#EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/tT4Frhtp/images-5-22.jpg",Bangla Tv
 https://8v1cc03lpt.gpcdn.net/xncmeopkro/Bangla_TV-720p.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/9qqVcXr/dbcnews.png",DBC News
 https://livess.jagobd.com.bd/live-orgin/dbcnews.stream/chunks.m3u8
