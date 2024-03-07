@@ -543,7 +543,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/340873.ts
 http://xtv.ooo:8080/live/T4S00515/820172/340875.ts
 
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 1
-http://103.191.240.78:8080/live/546451/546451/1887.ts
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1024830&extension=ts
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 2
 http://xtv.ooo:8080/live/T4S00515/820172/341039.ts
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 3
@@ -562,6 +562,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/251578.ts
 http://xtv.ooo:8080/live/T4S00515/820172/251580.ts
 #EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 10
 http://xtv.ooo:8080/live/T4S00515/820172/251590.ts
+#EXTINF:-1 group-title="HASANVAI" tvg-logo="https://i.imgur.com/rTH9cWg.png",Movies Server 11
+http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=1019880&extension=ts
 
 
 
