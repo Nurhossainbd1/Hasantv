@@ -229,7 +229,8 @@ https://m6gdakveln93-hls-live.5centscdn.com/ARTVN/d0dbe915091d400bd8ee7f27f07913
 https://livess.jagobd.com.bd/cZMLmVyX3RpbEU9Mi8xNy8yMDE0GIDU6RgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcGVMZEJCTEFWeVN3PTOmdFsaWRtaW51aiPhnPTI/millenniumtv-odr-up2.stream/live-orgin/millenniumtv-odr-up2.stream/chunks.m3u8
 
 
-
+#EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.postimg.cc/Z51VChst/IMG-20240308-055223.jpg",Bangla+
+https://live-stream.utkalbongo.com/hls/livebanglatvstream.m3u8
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/QaTnRJq.png",R Bangla
 https://vg-republictvlive.akamaized.net/v1/manifest/611d79b11b77e2f571934fd80ca1413453772ac7/vglive-sk-456368/ea56bdf9-cd83-4fbf-ae9a-db1c383ba08f/2.m3u8?ads.partner=Watcho&sessionId=488883c7-6695-4b7a-a72a-a91e4156dac9
 #EXTINF:-1 group-title="KOLKATA" tvg-logo="https://i.imgur.com/bUhoxxw.png",News 18
@@ -518,7 +519,7 @@ https://cc-tke03xaj1wszc.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da6
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/9fmVBskr/640px-New-logo-of-DD-National.jpg",DD National 
 https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Ddnational/default/index.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/d3d05Wpm/IMG-20240227-122245-600.jpg",Ishara Tv
-http://xtv.ooo:8080/live/T4S00515/820172/355941.m3u8
+https://epiconvh.s.llnwi.net/ishaara/master_480.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/7P3dsHgc/Nazara-TV-logo.png",Nazara tv
 https://epiconvh.s.llnwi.net/nazara/master.m3u8
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/hjvLZCLy/images-1-4.png",Movies Active
@@ -603,6 +604,8 @@ http://xtv.ooo:8080/live/T4S00515/820172/150482.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.ibb.co/Dt71mFD/Picsart-23-06-09-15-48-44-052.png",GUBBARE
 https://epiconvh.s.llnwi.net/gubbare/master.m3u8
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic
+http://startv365.com/9794783213/6955630461/400159478
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/9fd5Oq8.png",Sonic Hindi
 https://api.bongohub.pw/api/bio.php?ac=sonic
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/bqz9EXY.png",WOW Kids
 http://195.26.87.217/live.ts?channelId=91169&uid=7435&deviceMac=00:1A:79:51:4B:3A
