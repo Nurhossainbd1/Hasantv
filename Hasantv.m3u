@@ -455,7 +455,7 @@ http://xtv.ooo:8080/live/T4S00515/820172/353086.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/FR1B8JHz/image.jpg",Zee Talkies
 
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/Qd4gPY9g/zee-talkies-hd-hover.jpg",Zee Talkies HD
-https://d75dqofg5kmfk.cloudfront.net/bpk-tv/Zeetalkieshd/default/index.m3u8
+http://sansat.net:25461/live/02048081503032/02048081503032/95850.ts
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/JnPRcXdh/Zee-Tamil.png",Zee Tamil
 http://195.26.87.217/live.ts?channelId=43423&uid=7435&deviceMac=00:1A:79:51:4B:3A
 #EXTINF:-1 group-title="INDIAN" tvg-logo="https://i.postimg.cc/nznv9KBw/800px-Zee-Kannada.png",Zee Kannada
