@@ -623,7 +623,9 @@ http://mag.premiumplus.tv/play/live.php?mac=00:1A:79:61:4F:5D&stream=156089&exte
 http://xtv.ooo:8080/live/T4S00515/820172/350891.ts
 
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.imgur.com/FRrHfYJ.jpg",Mr.Been
-
+https://da.gd/mrbnfreetv
+#EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/FzHFbZ92/images-6-1.jpg",kung fu panda
+https://da.gd/kfpnfreetv
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/BnDxCLqc/Shiva-Nick-2016.jpg",Shiva
 http://xtv.ooo:8080/live/T4S00515/820172/342074.ts
 #EXTINF:-1 group-title="CARTOON" tvg-logo="https://i.postimg.cc/SR88PSTB/images-4-21.jpg",Motu Patlu
