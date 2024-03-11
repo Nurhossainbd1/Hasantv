@@ -77,13 +77,13 @@ http://cdn01.palki.tv/live/EkusheyTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/My%20TV.svg.png",My Tv
 https://bongohub.pw/bioscope.php?cc=my-tv
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/Mohona%20TV.png",Mohona Tv
-http://cdn01.palki.tv/live/MohonaTV-M/index.m3u8
+http://103.151.60.214:7444/1123/video.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/RFWN6GL6/BIJOY-TV-Logo-BD.png",Bijoy Tv
 http://cdn01.palki.tv/live/BijoyTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/qvpqXpGd/svg.png",Somay News
-http://livess.jagobd.com.bd/live-orgin/somoyt000011226615544544.stream/chunks.m3u8
+http://103.151.60.214:7444/1111/video.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/cQk0MMk/independenttv.png",Independent 
-http://cdn01.palki.tv/live/Independent-M/index.m3u8
+http://103.151.60.214:7444/1107/video.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.ibb.co/nQLFk5P/images-11.jpg",Maasranga Tv
 http://103.151.60.214:7444/1122/video.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.imgur.com/d1zRBNr.png",Channel 9
@@ -95,7 +95,7 @@ http://cdn01.palki.tv/live/EkattorTV-M/index.m3u8
 #EXTINF:-1  tvg-logo="https://cloudtv.akamaized.net/anyott/images/CMS_BD/20b9a6ee-8716-49e7-a683-c33ae3d8a4cb_180x180_517faf69-4b0c-4350-a1e2-0f35fb72f53b.png" group-title="BANGLADESHI",Asian TV
 http://cdn01.palki.tv/live/AsianTV-M/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/ncJhpngQ/Nexus-Television-Logo.png",Nexus Tv
-https://livess.jagobd.com.bd/live-orgin/nexustv.stream/chunks.m3u8
+http://cdn01.palki.tv/live/NexusTV-M/index.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://i.postimg.cc/VLmm2D0q/images-5-20.jpg",Gaan Bangla
 http://cdn01.palki.tv/live/GaanBangla-M/tracks-v2a1/mono.m3u8
 #EXTINF:-1 group-title="BANGLADESHI" tvg-logo="https://raw.githubusercontent.com/subirkumarpaul/Logo/main/SATV.png",Satv
