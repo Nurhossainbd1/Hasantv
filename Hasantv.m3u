@@ -857,7 +857,7 @@ https://edge1.laotv.la/live/TSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/Hb58Ccx.jpg",True Sport 2
 https://edge1.laotv.la/live/TrueSport2/index.m3u8
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.imgur.com/rFpPQoj.png",Sports 18
-http://pgplex.net:8080/Sports18HD/index.m3u8
+
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/fTRM9dCF/images-29.png",Sports18-1
 http://line.iptvhunt.com/play/live.php?mac=00:1A:79:61:45:08&stream=1057243&extension=ts
 #EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.postimg.cc/7LXLy3nn/images-5-2.jpg",Sports18- Khel
